@@ -1,0 +1,7 @@
+﻿department_id,department_code,department_name,department_description,status
+1,DPT-001,Procurement,Manages sourcing -  supplier selection -  and purchase orders.,Active
+2,DPT-002,Production Planning,Plans assembly batches and material requirements.,Active
+3,DPT-003,Quality Control,Inspects incoming materials and monitors non-conformance.,Active
+4,DPT-004,Raw Material Warehouse,Controls raw component receiving -  storage -  and issue.,Active
+5,DPT-005,Finished Goods Warehouse,Stores finished devices and prepares outbound orders.,Active
+6,DPT-006,Sales and Distribution,Manages customer orders -  delivery -  and service feedback.,Active

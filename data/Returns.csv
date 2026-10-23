@@ -1,0 +1,789 @@
+﻿return_id,return_code,customer_shipment_detail_id,return_request_date,return_received_date,returned_quantity,return_reason,product_condition,return_status
+1,RET-00001,9,2024-07-17,2024-07-18,35,Product performance defect,Defective,Completed
+2,RET-00002,104,2024-07-23,2024-07-24,7,Product performance defect,Defective,Completed
+3,RET-00003,132,2024-07-21,2024-07-26,61,Device did not power on,Not Working,Completed
+4,RET-00004,151,2024-08-01,2024-08-02,34,Customer changed purchase plan,Good,Completed
+5,RET-00005,174,2024-07-30,2024-08-05,62,Transit or packaging damage,Damaged,Completed
+6,RET-00006,188,2024-07-30,2024-08-03,18,Transit or packaging damage,Damaged,Completed
+7,RET-00007,229,2024-07-20,2024-07-22,9,Transit or packaging damage,Damaged,Completed
+8,RET-00008,245,2024-07-31,2024-08-06,32,Customer ordered excess quantity,Unopened,Completed
+9,RET-00009,246,2024-07-24,2024-07-30,20,Product performance defect,Defective,Completed
+10,RET-00010,265,2024-07-29,2024-07-30,8,Device did not power on,Not Working,Completed
+11,RET-00011,282,2024-07-24,2024-07-30,36,Customer ordered excess quantity,Unopened,Completed
+12,RET-00012,292,2024-07-22,2024-07-28,7,Device did not power on,Not Working,Completed
+13,RET-00013,323,2024-07-26,2024-07-31,59,Transit or packaging damage,Damaged,Completed
+14,RET-00014,324,2024-08-01,2024-08-05,34,Product performance defect,Defective,Completed
+15,RET-00015,371,2024-08-01,2024-08-06,19,Customer changed purchase plan,Good,Completed
+16,RET-00016,385,2024-08-04,2024-08-08,11,Transit or packaging damage,Damaged,Completed
+17,RET-00017,407,2024-08-06,2024-08-10,29,Transit or packaging damage,Damaged,Completed
+18,RET-00018,421,2024-08-04,2024-08-07,7,Transit or packaging damage,Damaged,Completed
+19,RET-00019,441,2024-07-28,2024-08-02,19,Transit or packaging damage,Damaged,Completed
+20,RET-00020,467,2024-07-25,2024-07-26,19,Product performance defect,Defective,Completed
+21,RET-00021,479,2024-08-02,2024-08-03,19,Transit or packaging damage,Damaged,Completed
+22,RET-00022,510,2024-08-02,2024-08-08,16,Customer changed purchase plan,Good,Completed
+23,RET-00023,518,2024-07-28,2024-07-29,33,Product performance defect,Defective,Completed
+24,RET-00024,531,2024-07-24,2024-07-28,31,Device did not power on,Not Working,Completed
+25,RET-00025,542,2024-07-29,2024-07-31,39,Product performance defect,Defective,Completed
+26,RET-00026,562,2024-08-05,2024-08-08,11,Transit or packaging damage,Damaged,Completed
+27,RET-00027,678,2024-08-15,2024-08-16,38,Transit or packaging damage,Damaged,Completed
+28,RET-00028,714,2024-08-14,2024-08-16,22,Customer changed purchase plan,Good,Completed
+29,RET-00029,743,2024-08-13,2024-08-17,33,Device did not power on,Not Working,Completed
+30,RET-00030,749,2024-08-14,2024-08-18,13,Product performance defect,Defective,Completed
+31,RET-00031,758,2024-08-11,2024-08-12,23,Transit or packaging damage,Damaged,Completed
+32,RET-00032,787,2024-08-02,2024-08-05,21,Device did not power on,Not Working,Completed
+33,RET-00033,788,2024-08-05,2024-08-07,26,Product performance defect,Defective,Completed
+34,RET-00034,844,2024-08-13,2024-08-14,23,Customer changed purchase plan,Good,Completed
+35,RET-00035,846,2024-08-16,2024-08-21,12,Transit or packaging damage,Damaged,Completed
+36,RET-00036,851,2024-08-10,2024-08-11,50,Transit or packaging damage,Damaged,Completed
+37,RET-00037,855,2024-08-05,2024-08-06,12,Customer changed purchase plan,Good,Completed
+38,RET-00038,873,2024-08-15,2024-08-17,13,Product performance defect,Defective,Completed
+39,RET-00039,883,2024-08-14,2024-08-19,23,Product performance defect,Defective,Completed
+40,RET-00040,921,2024-08-06,2024-08-09,29,Customer changed purchase plan,Good,Completed
+41,RET-00041,933,2024-08-25,2024-08-27,17,Customer changed purchase plan,Good,Completed
+42,RET-00042,949,2024-08-14,2024-08-16,84,Customer changed purchase plan,Good,Completed
+43,RET-00043,957,2024-08-06,2024-08-11,18,Product performance defect,Defective,Completed
+44,RET-00044,962,2024-08-16,2024-08-21,74,Customer ordered excess quantity,Unopened,Completed
+45,RET-00045,1010,2024-08-18,2024-08-22,17,Device did not power on,Not Working,Completed
+46,RET-00046,1011,2024-08-10,2024-08-11,41,Product performance defect,Defective,Completed
+47,RET-00047,1020,2024-08-16,2024-08-18,82,Customer changed purchase plan,Good,Completed
+48,RET-00048,1027,2024-08-08,2024-08-14,14,Product performance defect,Defective,Completed
+49,RET-00049,1032,2024-08-14,2024-08-15,15,Device did not power on,Not Working,Completed
+50,RET-00050,1037,2024-08-16,2024-08-20,45,Customer changed purchase plan,Good,Completed
+51,RET-00051,1141,2024-08-10,2024-08-16,18,Transit or packaging damage,Damaged,Completed
+52,RET-00052,1188,2024-08-17,2024-08-18,34,Customer changed purchase plan,Good,Completed
+53,RET-00053,1193,2024-08-15,2024-08-17,46,Customer changed purchase plan,Good,Completed
+54,RET-00054,1270,2024-08-12,2024-08-17,27,Device did not power on,Not Working,Completed
+55,RET-00055,1296,2024-08-19,2024-08-25,18,Transit or packaging damage,Damaged,Completed
+56,RET-00056,1343,2024-08-19,2024-08-22,9,Product performance defect,Defective,Completed
+57,RET-00057,1380,2024-08-26,2024-08-27,15,Customer changed purchase plan,Good,Completed
+58,RET-00058,1417,2024-08-19,2024-08-20,24,Customer changed purchase plan,Good,Completed
+59,RET-00059,1444,2024-08-29,2024-09-04,33,Customer changed purchase plan,Good,Completed
+60,RET-00060,1467,2024-08-21,2024-08-22,13,Customer changed purchase plan,Good,Completed
+61,RET-00061,1514,2024-09-01,2024-09-02,44,Product performance defect,Defective,Completed
+62,RET-00062,1571,2024-09-03,2024-09-09,52,Transit or packaging damage,Damaged,Completed
+63,RET-00063,1574,2024-08-29,2024-08-31,12,Product performance defect,Defective,Completed
+64,RET-00064,1583,2024-08-24,2024-08-27,8,Customer changed purchase plan,Good,Completed
+65,RET-00065,1595,2024-08-22,2024-08-24,21,Device did not power on,Not Working,Completed
+66,RET-00066,1601,2024-08-31,2024-09-04,32,Customer changed purchase plan,Good,Completed
+67,RET-00067,1697,2024-08-26,2024-08-29,21,Transit or packaging damage,Damaged,Completed
+68,RET-00068,1702,2024-08-31,2024-09-06,41,Transit or packaging damage,Damaged,Completed
+69,RET-00069,1707,2024-08-24,2024-08-30,17,Product performance defect,Defective,Completed
+70,RET-00070,1716,2024-08-27,2024-08-30,12,Product performance defect,Defective,Completed
+71,RET-00071,1764,2024-09-02,2024-09-06,13,Product performance defect,Defective,Completed
+72,RET-00072,1800,2024-08-30,2024-09-01,22,Product performance defect,Defective,Completed
+73,RET-00073,1804,2024-09-02,2024-09-04,41,Customer changed purchase plan,Good,Completed
+74,RET-00074,1825,2024-09-09,2024-09-14,42,Customer ordered excess quantity,Unopened,Completed
+75,RET-00075,1843,2024-09-02,2024-09-06,20,Product performance defect,Defective,Completed
+76,RET-00076,1864,2024-09-10,2024-09-14,44,Transit or packaging damage,Damaged,Completed
+77,RET-00077,1967,2024-09-11,2024-09-16,12,Product performance defect,Defective,Completed
+78,RET-00078,1977,2024-09-10,2024-09-13,18,Product performance defect,Defective,Completed
+79,RET-00079,1992,2024-09-06,2024-09-07,13,Device did not power on,Not Working,Completed
+80,RET-00080,2011,2024-09-06,2024-09-12,16,Customer changed purchase plan,Good,Completed
+81,RET-00081,2064,2024-09-16,2024-09-17,40,Customer ordered excess quantity,Unopened,Completed
+82,RET-00082,2078,2024-09-11,2024-09-14,13,Transit or packaging damage,Damaged,Completed
+83,RET-00083,2079,2024-09-08,2024-09-10,11,Product performance defect,Defective,Completed
+84,RET-00084,2111,2024-09-15,2024-09-20,36,Device did not power on,Not Working,Completed
+85,RET-00085,2131,2024-09-15,2024-09-18,12,Customer changed purchase plan,Good,Completed
+86,RET-00086,2152,2024-09-10,2024-09-11,10,Device did not power on,Not Working,Completed
+87,RET-00087,2171,2024-09-17,2024-09-22,37,Product performance defect,Defective,Completed
+88,RET-00088,2188,2024-09-18,2024-09-22,24,Customer changed purchase plan,Good,Completed
+89,RET-00089,2198,2024-09-12,2024-09-18,9,Product performance defect,Defective,Completed
+90,RET-00090,2206,2024-09-11,2024-09-16,28,Customer changed purchase plan,Good,Completed
+91,RET-00091,2210,2024-09-18,2024-09-19,14,Transit or packaging damage,Damaged,Completed
+92,RET-00092,2221,2024-09-21,2024-09-27,23,Product performance defect,Defective,Completed
+93,RET-00093,2255,2024-09-13,2024-09-18,58,Customer changed purchase plan,Good,Completed
+94,RET-00094,2266,2024-09-10,2024-09-16,81,Customer changed purchase plan,Good,Completed
+95,RET-00095,2267,2024-09-18,2024-09-23,12,Product performance defect,Defective,Completed
+96,RET-00096,2271,2024-09-21,2024-09-22,35,Product performance defect,Defective,Completed
+97,RET-00097,2279,2024-09-21,2024-09-24,13,Product performance defect,Defective,Completed
+98,RET-00098,2280,2024-09-21,2024-09-26,36,Product performance defect,Defective,Completed
+99,RET-00099,2288,2024-09-17,2024-09-18,15,Product performance defect,Defective,Completed
+100,RET-00100,2298,2024-09-13,2024-09-16,21,Customer ordered excess quantity,Unopened,Completed
+101,RET-00101,2306,2024-09-13,2024-09-14,48,Customer changed purchase plan,Good,Completed
+102,RET-00102,2308,2024-09-13,2024-09-14,8,Product performance defect,Defective,Completed
+103,RET-00103,2319,2024-09-12,2024-09-17,6,Transit or packaging damage,Damaged,Completed
+104,RET-00104,2328,2024-09-14,2024-09-16,24,Customer changed purchase plan,Good,Completed
+105,RET-00105,2346,2024-09-11,2024-09-17,25,Customer ordered excess quantity,Unopened,Completed
+106,RET-00106,2364,2024-09-14,2024-09-16,14,Product performance defect,Defective,Completed
+107,RET-00107,2413,2024-09-20,2024-09-24,70,Transit or packaging damage,Damaged,Completed
+108,RET-00108,2424,2024-09-30,2024-10-01,11,Device did not power on,Not Working,Completed
+109,RET-00109,2460,2024-09-17,2024-09-20,7,Transit or packaging damage,Damaged,Completed
+110,RET-00110,2472,2024-09-14,2024-09-17,17,Product performance defect,Defective,Completed
+111,RET-00111,2476,2024-09-23,2024-09-26,11,Transit or packaging damage,Damaged,Completed
+112,RET-00112,2504,2024-09-24,2024-09-25,16,Customer changed purchase plan,Good,Completed
+113,RET-00113,2519,2024-09-25,2024-09-27,25,Device did not power on,Not Working,Completed
+114,RET-00114,2522,2024-09-16,2024-09-21,19,Customer changed purchase plan,Good,Completed
+115,RET-00115,2537,2024-09-29,2024-10-04,18,Customer changed purchase plan,Good,Completed
+116,RET-00116,2552,2024-10-01,2024-10-04,62,Device did not power on,Not Working,Completed
+117,RET-00117,2561,2024-09-15,2024-09-20,42,Customer changed purchase plan,Good,Completed
+118,RET-00118,2587,2024-09-18,2024-09-20,12,Product performance defect,Defective,Completed
+119,RET-00119,2593,2024-09-22,2024-09-24,7,Customer changed purchase plan,Good,Completed
+120,RET-00120,2600,2024-10-03,2024-10-07,38,Transit or packaging damage,Damaged,Completed
+121,RET-00121,2627,2024-09-27,2024-10-02,36,Customer changed purchase plan,Good,Completed
+122,RET-00122,2639,2024-10-03,2024-10-07,7,Customer changed purchase plan,Good,Completed
+123,RET-00123,2644,2024-10-01,2024-10-05,78,Customer ordered excess quantity,Unopened,Completed
+124,RET-00124,2657,2024-09-25,2024-09-26,12,Customer changed purchase plan,Good,Completed
+125,RET-00125,2661,2024-09-21,2024-09-24,10,Product performance defect,Defective,Completed
+126,RET-00126,2677,2024-09-30,2024-10-06,5,Product performance defect,Defective,Completed
+127,RET-00127,2716,2024-09-24,2024-09-29,10,Device did not power on,Not Working,Completed
+128,RET-00128,2755,2024-09-27,2024-10-02,62,Transit or packaging damage,Damaged,Completed
+129,RET-00129,2797,2024-09-28,2024-10-01,10,Customer changed purchase plan,Good,Completed
+130,RET-00130,2821,2024-09-25,2024-09-30,19,Customer ordered excess quantity,Unopened,Completed
+131,RET-00131,2825,2024-09-27,2024-09-29,19,Product performance defect,Defective,Completed
+132,RET-00132,2846,2024-10-05,2024-10-08,16,Transit or packaging damage,Damaged,Completed
+133,RET-00133,2889,2024-10-14,2024-10-17,47,Product performance defect,Defective,Completed
+134,RET-00134,2891,2024-10-10,2024-10-12,4,Customer ordered excess quantity,Unopened,Completed
+135,RET-00135,2902,2024-10-05,2024-10-09,16,Customer changed purchase plan,Good,Completed
+136,RET-00136,2949,2024-10-11,2024-10-12,15,Transit or packaging damage,Damaged,Completed
+137,RET-00137,2961,2024-09-27,2024-10-01,14,Product performance defect,Defective,Completed
+138,RET-00138,3029,2024-09-28,2024-09-30,74,Device did not power on,Not Working,Completed
+139,RET-00139,3034,2024-10-06,2024-10-07,7,Transit or packaging damage,Damaged,Completed
+140,RET-00140,3065,2024-10-03,2024-10-09,19,Device did not power on,Not Working,Completed
+141,RET-00141,3066,2024-10-11,2024-10-17,32,Product performance defect,Defective,Completed
+142,RET-00142,3107,2024-10-20,2024-10-24,9,Device did not power on,Not Working,Completed
+143,RET-00143,3111,2024-10-03,2024-10-09,11,Product performance defect,Defective,Completed
+144,RET-00144,3112,2024-10-02,2024-10-08,19,Product performance defect,Defective,Completed
+145,RET-00145,3156,2024-10-02,2024-10-05,7,Customer changed purchase plan,Good,Completed
+146,RET-00146,3181,2024-10-03,2024-10-05,16,Product performance defect,Defective,Completed
+147,RET-00147,3232,2024-10-03,2024-10-04,26,Customer changed purchase plan,Good,Completed
+148,RET-00148,3234,2024-10-05,2024-10-06,18,Product performance defect,Defective,Completed
+149,RET-00149,3278,2024-10-10,2024-10-16,8,Device did not power on,Not Working,Completed
+150,RET-00150,3282,2024-10-07,2024-10-09,22,Customer changed purchase plan,Good,Completed
+151,RET-00151,3305,2024-10-07,2024-10-13,8,Device did not power on,Not Working,Completed
+152,RET-00152,3325,2024-10-03,2024-10-08,52,Product performance defect,Defective,Completed
+153,RET-00153,3339,2024-10-05,2024-10-09,53,Customer ordered excess quantity,Unopened,Completed
+154,RET-00154,3341,2024-10-08,2024-10-09,9,Customer changed purchase plan,Good,Completed
+155,RET-00155,3373,2024-10-07,2024-10-12,67,Customer changed purchase plan,Good,Completed
+156,RET-00156,3385,2024-10-16,2024-10-19,52,Product performance defect,Defective,Completed
+157,RET-00157,3390,2024-10-22,2024-10-28,25,Device did not power on,Not Working,Completed
+158,RET-00158,3410,2024-10-25,2024-10-31,30,Product performance defect,Defective,Completed
+159,RET-00159,3439,2024-10-23,2024-10-24,7,Product performance defect,Defective,Completed
+160,RET-00160,3511,2024-10-09,2024-10-10,21,Customer changed purchase plan,Good,Completed
+161,RET-00161,3598,2024-10-28,2024-11-03,17,Product performance defect,Defective,Completed
+162,RET-00162,3607,2024-10-17,2024-10-22,24,Customer changed purchase plan,Good,Completed
+163,RET-00163,3616,2024-10-22,2024-10-27,18,Product performance defect,Defective,Completed
+164,RET-00164,3638,2024-10-30,2024-11-02,9,Device did not power on,Not Working,Completed
+165,RET-00165,3670,2024-10-10,2024-10-12,33,Product performance defect,Defective,Completed
+166,RET-00166,3676,2024-10-28,2024-10-30,12,Device did not power on,Not Working,Completed
+167,RET-00167,3720,2024-10-16,2024-10-21,29,Customer changed purchase plan,Good,Completed
+168,RET-00168,3721,2024-10-26,2024-10-28,20,Transit or packaging damage,Damaged,Completed
+169,RET-00169,3774,2024-10-19,2024-10-25,16,Customer ordered excess quantity,Unopened,Completed
+170,RET-00170,3800,2024-10-30,2024-11-05,7,Customer changed purchase plan,Good,Completed
+171,RET-00171,3808,2024-10-25,2024-10-31,33,Product performance defect,Defective,Completed
+172,RET-00172,3888,2024-10-30,2024-11-05,12,Transit or packaging damage,Damaged,Completed
+173,RET-00173,3905,2024-10-17,2024-10-19,29,Transit or packaging damage,Damaged,Completed
+174,RET-00174,3909,2024-11-03,2024-11-05,61,Transit or packaging damage,Damaged,Completed
+175,RET-00175,3911,2024-10-24,2024-10-27,41,Customer ordered excess quantity,Unopened,Completed
+176,RET-00176,3968,2024-10-28,2024-10-29,29,Customer ordered excess quantity,Unopened,Completed
+177,RET-00177,3985,2024-10-22,2024-10-28,17,Device did not power on,Not Working,Completed
+178,RET-00178,4005,2024-10-23,2024-10-24,3,Customer ordered excess quantity,Unopened,Completed
+179,RET-00179,4034,2024-11-05,2024-11-07,17,Customer ordered excess quantity,Unopened,Completed
+180,RET-00180,4035,2024-10-26,2024-10-27,44,Product performance defect,Defective,Completed
+181,RET-00181,4062,2024-10-21,2024-10-26,20,Device did not power on,Not Working,Completed
+182,RET-00182,4069,2024-10-31,2024-11-06,16,Product performance defect,Defective,Completed
+183,RET-00183,4086,2024-11-06,2024-11-08,16,Customer ordered excess quantity,Unopened,Completed
+184,RET-00184,4092,2024-10-26,2024-10-28,23,Transit or packaging damage,Damaged,Completed
+185,RET-00185,4156,2024-10-30,2024-11-02,26,Transit or packaging damage,Damaged,Completed
+186,RET-00186,4171,2024-10-31,2024-11-04,16,Transit or packaging damage,Damaged,Completed
+187,RET-00187,4183,2024-11-09,2024-11-13,24,Product performance defect,Defective,Completed
+188,RET-00188,4221,2024-10-31,2024-11-01,20,Device did not power on,Not Working,Completed
+189,RET-00189,4225,2024-11-04,2024-11-05,9,Product performance defect,Defective,Completed
+190,RET-00190,4243,2024-10-26,2024-11-01,24,Customer changed purchase plan,Good,Completed
+191,RET-00191,4252,2024-11-06,2024-11-10,65,Product performance defect,Defective,Completed
+192,RET-00192,4259,2024-11-08,2024-11-09,12,Device did not power on,Not Working,Completed
+193,RET-00193,4359,2024-11-15,2024-11-21,13,Transit or packaging damage,Damaged,Completed
+194,RET-00194,4378,2024-11-08,2024-11-14,11,Product performance defect,Defective,Completed
+195,RET-00195,4412,2024-11-09,2024-11-13,17,Transit or packaging damage,Damaged,Completed
+196,RET-00196,4417,2024-11-14,2024-11-20,7,Transit or packaging damage,Damaged,Completed
+197,RET-00197,4438,2024-11-17,2024-11-21,28,Product performance defect,Defective,Completed
+198,RET-00198,4466,2024-11-12,2024-11-16,30,Transit or packaging damage,Damaged,Completed
+199,RET-00199,4480,2024-11-10,2024-11-11,47,Transit or packaging damage,Damaged,Completed
+200,RET-00200,4487,2024-11-18,2024-11-23,36,Customer ordered excess quantity,Unopened,Completed
+201,RET-00201,4506,2024-11-11,2024-11-15,20,Product performance defect,Defective,Completed
+202,RET-00202,4514,2024-11-23,2024-11-26,38,Device did not power on,Not Working,Completed
+203,RET-00203,4516,2024-11-04,2024-11-07,28,Product performance defect,Defective,Completed
+204,RET-00204,4544,2024-11-07,2024-11-13,22,Device did not power on,Not Working,Completed
+205,RET-00205,4553,2024-11-07,2024-11-11,21,Transit or packaging damage,Damaged,Completed
+206,RET-00206,4554,2024-11-17,2024-11-23,18,Customer changed purchase plan,Good,Completed
+207,RET-00207,4572,2024-11-05,2024-11-06,31,Product performance defect,Defective,Completed
+208,RET-00208,4581,2024-11-14,2024-11-20,10,Customer changed purchase plan,Good,Completed
+209,RET-00209,4594,2024-11-11,2024-11-12,6,Device did not power on,Not Working,Completed
+210,RET-00210,4621,2024-11-18,2024-11-23,7,Transit or packaging damage,Damaged,Completed
+211,RET-00211,4680,2024-11-07,2024-11-11,13,Customer ordered excess quantity,Unopened,Completed
+212,RET-00212,4695,2024-11-06,2024-11-07,23,Customer changed purchase plan,Good,Completed
+213,RET-00213,4729,2024-11-18,2024-11-22,22,Customer ordered excess quantity,Unopened,Completed
+214,RET-00214,4765,2024-11-22,2024-11-25,26,Transit or packaging damage,Damaged,Completed
+215,RET-00215,4801,2024-11-21,2024-11-27,72,Product performance defect,Defective,Completed
+216,RET-00216,4835,2024-11-24,2024-11-28,14,Customer changed purchase plan,Good,Completed
+217,RET-00217,4878,2024-11-23,2024-11-29,39,Customer changed purchase plan,Good,Completed
+218,RET-00218,4910,2024-11-18,2024-11-23,14,Product performance defect,Defective,Completed
+219,RET-00219,4934,2024-11-25,2024-12-01,36,Device did not power on,Not Working,Completed
+220,RET-00220,4944,2024-11-21,2024-11-24,36,Device did not power on,Not Working,Completed
+221,RET-00221,4980,2024-11-22,2024-11-24,29,Product performance defect,Defective,Completed
+222,RET-00222,5000,2024-11-22,2024-11-27,7,Customer ordered excess quantity,Unopened,Completed
+223,RET-00223,5021,2024-11-20,2024-11-21,20,Product performance defect,Defective,Completed
+224,RET-00224,5026,2024-11-30,2024-12-01,18,Device did not power on,Not Working,Completed
+225,RET-00225,5035,2024-12-01,2024-12-02,24,Product performance defect,Defective,Completed
+226,RET-00226,5048,2024-11-29,2024-12-02,25,Customer changed purchase plan,Good,Completed
+227,RET-00227,5059,2024-12-01,2024-12-02,17,Product performance defect,Defective,Completed
+228,RET-00228,5138,2024-11-25,2024-11-28,29,Customer changed purchase plan,Good,Completed
+229,RET-00229,5169,2024-12-04,2024-12-08,9,Customer changed purchase plan,Good,Completed
+230,RET-00230,5202,2024-11-30,2024-12-02,20,Product performance defect,Defective,Completed
+231,RET-00231,5209,2024-12-03,2024-12-07,27,Device did not power on,Not Working,Completed
+232,RET-00232,5233,2024-12-02,2024-12-06,15,Device did not power on,Not Working,Completed
+233,RET-00233,5237,2024-11-27,2024-12-01,20,Transit or packaging damage,Damaged,Completed
+234,RET-00234,5253,2024-12-06,2024-12-07,25,Device did not power on,Not Working,Completed
+235,RET-00235,5260,2024-11-30,2024-12-02,30,Customer ordered excess quantity,Unopened,Completed
+236,RET-00236,5271,2024-12-01,2024-12-02,22,Device did not power on,Not Working,Completed
+237,RET-00237,5275,2024-12-03,2024-12-04,18,Transit or packaging damage,Damaged,Completed
+238,RET-00238,5359,2024-12-05,2024-12-11,26,Customer changed purchase plan,Good,Completed
+239,RET-00239,5429,2024-11-28,2024-12-02,25,Product performance defect,Defective,Completed
+240,RET-00240,5464,2024-12-10,2024-12-15,14,Product performance defect,Defective,Completed
+241,RET-00241,5471,2024-12-11,2024-12-12,19,Transit or packaging damage,Damaged,Completed
+242,RET-00242,5512,2024-12-09,2024-12-13,42,Product performance defect,Defective,Completed
+243,RET-00243,5532,2024-12-14,2024-12-15,49,Transit or packaging damage,Damaged,Completed
+244,RET-00244,5543,2024-12-06,2024-12-11,35,Customer changed purchase plan,Good,Completed
+245,RET-00245,5544,2024-12-06,2024-12-10,24,Product performance defect,Defective,Completed
+246,RET-00246,5591,2024-12-01,2024-12-02,15,Customer changed purchase plan,Good,Completed
+247,RET-00247,5608,2024-12-07,2024-12-13,8,Product performance defect,Defective,Completed
+248,RET-00248,5618,2024-12-12,2024-12-15,16,Customer changed purchase plan,Good,Completed
+249,RET-00249,5622,2024-12-12,2024-12-18,7,Product performance defect,Defective,Completed
+250,RET-00250,5627,2024-12-02,2024-12-07,20,Device did not power on,Not Working,Completed
+251,RET-00251,5695,2024-12-13,2024-12-18,41,Customer changed purchase plan,Good,Completed
+252,RET-00252,5704,2024-12-16,2024-12-21,64,Product performance defect,Defective,Completed
+253,RET-00253,5756,2024-12-14,2024-12-18,14,Transit or packaging damage,Damaged,Completed
+254,RET-00254,5758,2024-12-10,2024-12-14,37,Customer changed purchase plan,Good,Completed
+255,RET-00255,5763,2024-12-03,2024-12-08,10,Product performance defect,Defective,Completed
+256,RET-00256,5785,2024-12-16,2024-12-22,26,Transit or packaging damage,Damaged,Completed
+257,RET-00257,5793,2024-12-06,2024-12-12,19,Transit or packaging damage,Damaged,Completed
+258,RET-00258,5796,2024-12-07,2024-12-11,25,Customer changed purchase plan,Good,Completed
+259,RET-00259,5892,2024-12-16,2024-12-22,21,Customer changed purchase plan,Good,Completed
+260,RET-00260,5929,2024-12-20,2024-12-23,17,Device did not power on,Not Working,Completed
+261,RET-00261,5948,2024-12-10,2024-12-14,13,Transit or packaging damage,Damaged,Completed
+262,RET-00262,5981,2024-12-19,2024-12-24,38,Customer changed purchase plan,Good,Completed
+263,RET-00263,5990,2024-12-18,2024-12-22,14,Transit or packaging damage,Damaged,Completed
+264,RET-00264,6043,2024-12-12,2024-12-16,17,Customer ordered excess quantity,Unopened,Completed
+265,RET-00265,6067,2024-12-21,2024-12-27,31,Product performance defect,Defective,Completed
+266,RET-00266,6092,2024-12-19,2024-12-23,34,Transit or packaging damage,Damaged,Completed
+267,RET-00267,6123,2024-12-16,2024-12-20,11,Customer ordered excess quantity,Unopened,Completed
+268,RET-00268,6144,2024-12-20,2024-12-25,25,Customer changed purchase plan,Good,Completed
+269,RET-00269,6150,2024-12-22,2024-12-24,15,Transit or packaging damage,Damaged,Completed
+270,RET-00270,6153,2024-12-27,2025-01-01,21,Customer ordered excess quantity,Unopened,Completed
+271,RET-00271,6160,2025-01-05,2025-01-10,7,Transit or packaging damage,Damaged,Completed
+272,RET-00272,6248,2024-12-27,2024-12-30,61,Product performance defect,Defective,Completed
+273,RET-00273,6274,2024-12-28,2024-12-31,61,Product performance defect,Defective,Completed
+274,RET-00274,6290,2024-12-24,2024-12-30,26,Device did not power on,Not Working,Completed
+275,RET-00275,6356,2024-12-19,2024-12-24,7,Product performance defect,Defective,Completed
+276,RET-00276,6397,2024-12-24,2024-12-25,34,Customer changed purchase plan,Good,Completed
+277,RET-00277,6413,2024-12-23,2024-12-24,13,Customer ordered excess quantity,Unopened,Completed
+278,RET-00278,6422,2024-12-30,2025-01-02,53,Customer changed purchase plan,Good,Completed
+279,RET-00279,6473,2024-12-21,2024-12-22,16,Device did not power on,Not Working,Completed
+280,RET-00280,6503,2024-12-31,2025-01-05,45,Product performance defect,Defective,Completed
+281,RET-00281,6663,2024-12-29,2025-01-04,12,Transit or packaging damage,Damaged,Completed
+282,RET-00282,6666,2025-01-05,2025-01-11,10,Device did not power on,Not Working,Completed
+283,RET-00283,6681,2025-01-03,2025-01-09,32,Transit or packaging damage,Damaged,Completed
+284,RET-00284,6697,2025-01-02,2025-01-07,25,Product performance defect,Defective,Completed
+285,RET-00285,6708,2025-01-07,2025-01-10,7,Device did not power on,Not Working,Completed
+286,RET-00286,6709,2025-01-09,2025-01-12,13,Customer ordered excess quantity,Unopened,Completed
+287,RET-00287,6713,2025-01-11,2025-01-15,7,Customer ordered excess quantity,Unopened,Completed
+288,RET-00288,6738,2025-01-09,2025-01-11,29,Transit or packaging damage,Damaged,Completed
+289,RET-00289,6752,2025-01-14,2025-01-17,21,Customer changed purchase plan,Good,Completed
+290,RET-00290,6756,2025-01-08,2025-01-13,33,Transit or packaging damage,Damaged,Completed
+291,RET-00291,6760,2024-12-31,2025-01-06,10,Product performance defect,Defective,Completed
+292,RET-00292,6778,2025-01-01,2025-01-04,6,Product performance defect,Defective,Completed
+293,RET-00293,6872,2025-01-08,2025-01-10,14,Transit or packaging damage,Damaged,Completed
+294,RET-00294,6894,2025-01-08,2025-01-09,29,Customer ordered excess quantity,Unopened,Completed
+295,RET-00295,6939,2025-01-10,2025-01-12,37,Product performance defect,Defective,Completed
+296,RET-00296,6944,2025-01-05,2025-01-06,41,Customer changed purchase plan,Good,Completed
+297,RET-00297,6971,2025-01-04,2025-01-05,18,Customer ordered excess quantity,Unopened,Completed
+298,RET-00298,6990,2025-01-11,2025-01-17,43,Transit or packaging damage,Damaged,Completed
+299,RET-00299,7015,2025-01-10,2025-01-16,5,Device did not power on,Not Working,Completed
+300,RET-00300,7019,2025-01-15,2025-01-18,8,Customer changed purchase plan,Good,Completed
+301,RET-00301,7026,2025-01-12,2025-01-17,11,Customer changed purchase plan,Good,Completed
+302,RET-00302,7032,2025-01-06,2025-01-11,11,Customer changed purchase plan,Good,Completed
+303,RET-00303,7070,2025-01-13,2025-01-16,14,Product performance defect,Defective,Completed
+304,RET-00304,7120,2025-01-07,2025-01-12,15,Customer changed purchase plan,Good,Completed
+305,RET-00305,7168,2025-01-11,2025-01-17,20,Transit or packaging damage,Damaged,Completed
+306,RET-00306,7183,2025-01-12,2025-01-18,29,Product performance defect,Defective,Completed
+307,RET-00307,7200,2025-01-19,2025-01-25,15,Transit or packaging damage,Damaged,Completed
+308,RET-00308,7223,2025-01-15,2025-01-19,29,Product performance defect,Defective,Completed
+309,RET-00309,7244,2025-01-16,2025-01-20,18,Device did not power on,Not Working,Completed
+310,RET-00310,7248,2025-01-20,2025-01-23,30,Transit or packaging damage,Damaged,Completed
+311,RET-00311,7321,2025-01-25,2025-01-29,12,Product performance defect,Defective,Completed
+312,RET-00312,7349,2025-01-28,2025-01-31,15,Product performance defect,Defective,Completed
+313,RET-00313,7411,2025-01-14,2025-01-15,7,Product performance defect,Defective,Completed
+314,RET-00314,7457,2025-01-17,2025-01-18,71,Customer changed purchase plan,Good,Completed
+315,RET-00315,7469,2025-01-18,2025-01-23,30,Customer changed purchase plan,Good,Completed
+316,RET-00316,7486,2025-01-28,2025-01-30,26,Transit or packaging damage,Damaged,Completed
+317,RET-00317,7512,2025-02-01,2025-02-05,9,Customer ordered excess quantity,Unopened,Completed
+318,RET-00318,7625,2025-01-25,2025-01-31,6,Customer changed purchase plan,Good,Completed
+319,RET-00319,7635,2025-01-23,2025-01-28,40,Device did not power on,Not Working,Completed
+320,RET-00320,7693,2025-02-01,2025-02-07,11,Product performance defect,Defective,Completed
+321,RET-00321,7707,2025-01-28,2025-02-01,25,Product performance defect,Defective,Completed
+322,RET-00322,7713,2025-01-28,2025-01-31,7,Customer changed purchase plan,Good,Completed
+323,RET-00323,7755,2025-02-02,2025-02-06,24,Transit or packaging damage,Damaged,Completed
+324,RET-00324,7763,2025-01-28,2025-01-30,25,Customer ordered excess quantity,Unopened,Completed
+325,RET-00325,7764,2025-01-28,2025-02-02,58,Product performance defect,Defective,Completed
+326,RET-00326,7781,2025-01-26,2025-01-30,65,Transit or packaging damage,Damaged,Completed
+327,RET-00327,7825,2025-01-22,2025-01-26,10,Product performance defect,Defective,Completed
+328,RET-00328,7941,2025-02-04,2025-02-09,13,Customer changed purchase plan,Good,Completed
+329,RET-00329,7953,2025-02-05,2025-02-06,11,Transit or packaging damage,Damaged,Completed
+330,RET-00330,7966,2025-02-02,2025-02-03,54,Customer changed purchase plan,Good,Completed
+331,RET-00331,7995,2025-02-06,2025-02-11,70,Transit or packaging damage,Damaged,Completed
+332,RET-00332,7997,2025-02-12,2025-02-14,24,Device did not power on,Not Working,Completed
+333,RET-00333,8001,2025-02-06,2025-02-12,17,Product performance defect,Defective,Completed
+334,RET-00334,8007,2025-02-07,2025-02-08,10,Device did not power on,Not Working,Completed
+335,RET-00335,8023,2025-01-30,2025-02-05,25,Device did not power on,Not Working,Completed
+336,RET-00336,8076,2025-02-15,2025-02-19,23,Customer changed purchase plan,Good,Completed
+337,RET-00337,8101,2025-02-13,2025-02-14,17,Transit or packaging damage,Damaged,Completed
+338,RET-00338,8118,2025-02-05,2025-02-08,21,Customer ordered excess quantity,Unopened,Completed
+339,RET-00339,8147,2025-02-04,2025-02-07,14,Transit or packaging damage,Damaged,Completed
+340,RET-00340,8157,2025-02-13,2025-02-19,7,Transit or packaging damage,Damaged,Completed
+341,RET-00341,8181,2025-02-08,2025-02-10,48,Customer changed purchase plan,Good,Completed
+342,RET-00342,8226,2025-02-17,2025-02-18,15,Customer changed purchase plan,Good,Completed
+343,RET-00343,8234,2025-02-12,2025-02-16,16,Product performance defect,Defective,Completed
+344,RET-00344,8250,2025-02-18,2025-02-19,23,Customer changed purchase plan,Good,Completed
+345,RET-00345,8278,2025-02-20,2025-02-25,38,Device did not power on,Not Working,Completed
+346,RET-00346,8298,2025-02-12,2025-02-18,6,Device did not power on,Not Working,Completed
+347,RET-00347,8299,2025-02-10,2025-02-14,22,Product performance defect,Defective,Completed
+348,RET-00348,8302,2025-02-17,2025-02-20,37,Customer ordered excess quantity,Unopened,Completed
+349,RET-00349,8334,2025-02-14,2025-02-17,59,Transit or packaging damage,Damaged,Completed
+350,RET-00350,8514,2025-02-25,2025-02-27,12,Device did not power on,Not Working,Completed
+351,RET-00351,8517,2025-02-23,2025-02-27,18,Product performance defect,Defective,Completed
+352,RET-00352,8519,2025-02-23,2025-02-26,13,Product performance defect,Defective,Completed
+353,RET-00353,8583,2025-02-18,2025-02-20,17,Customer ordered excess quantity,Unopened,Completed
+354,RET-00354,8592,2025-02-18,2025-02-23,35,Transit or packaging damage,Damaged,Completed
+355,RET-00355,8595,2025-02-18,2025-02-20,14,Device did not power on,Not Working,Completed
+356,RET-00356,8605,2025-02-19,2025-02-23,19,Product performance defect,Defective,Completed
+357,RET-00357,8680,2025-02-27,2025-02-28,19,Product performance defect,Defective,Completed
+358,RET-00358,8684,2025-02-25,2025-02-26,34,Product performance defect,Defective,Completed
+359,RET-00359,8733,2025-02-22,2025-02-23,8,Product performance defect,Defective,Completed
+360,RET-00360,8750,2025-02-21,2025-02-24,9,Customer ordered excess quantity,Unopened,Completed
+361,RET-00361,8762,2025-02-23,2025-02-25,15,Device did not power on,Not Working,Completed
+362,RET-00362,8810,2025-02-16,2025-02-22,11,Customer ordered excess quantity,Unopened,Completed
+363,RET-00363,8821,2025-03-04,2025-03-08,29,Transit or packaging damage,Damaged,Completed
+364,RET-00364,8834,2025-03-04,2025-03-08,8,Transit or packaging damage,Damaged,Completed
+365,RET-00365,8860,2025-02-21,2025-02-24,25,Device did not power on,Not Working,Completed
+366,RET-00366,8880,2025-02-21,2025-02-25,25,Transit or packaging damage,Damaged,Completed
+367,RET-00367,8920,2025-02-26,2025-03-03,57,Transit or packaging damage,Damaged,Completed
+368,RET-00368,8941,2025-03-14,2025-03-20,16,Product performance defect,Defective,Completed
+369,RET-00369,8964,2025-02-28,2025-03-02,13,Customer changed purchase plan,Good,Completed
+370,RET-00370,8974,2025-02-23,2025-02-26,19,Product performance defect,Defective,Completed
+371,RET-00371,8982,2025-03-01,2025-03-02,28,Product performance defect,Defective,Completed
+372,RET-00372,8997,2025-03-10,2025-03-12,8,Product performance defect,Defective,Completed
+373,RET-00373,9004,2025-03-02,2025-03-04,41,Transit or packaging damage,Damaged,Completed
+374,RET-00374,9026,2025-03-04,2025-03-07,54,Customer ordered excess quantity,Unopened,Completed
+375,RET-00375,9043,2025-03-10,2025-03-14,6,Product performance defect,Defective,Completed
+376,RET-00376,9059,2025-03-12,2025-03-15,50,Product performance defect,Defective,Completed
+377,RET-00377,9062,2025-02-28,2025-03-04,10,Device did not power on,Not Working,Completed
+378,RET-00378,9121,2025-03-11,2025-03-17,37,Customer changed purchase plan,Good,Completed
+379,RET-00379,9138,2025-03-01,2025-03-07,10,Customer ordered excess quantity,Unopened,Completed
+380,RET-00380,9149,2025-03-09,2025-03-12,16,Customer ordered excess quantity,Unopened,Completed
+381,RET-00381,9164,2025-03-07,2025-03-08,11,Product performance defect,Defective,Completed
+382,RET-00382,9166,2025-03-10,2025-03-12,18,Customer changed purchase plan,Good,Completed
+383,RET-00383,9193,2025-03-08,2025-03-13,63,Device did not power on,Not Working,Completed
+384,RET-00384,9210,2025-03-10,2025-03-13,7,Transit or packaging damage,Damaged,Completed
+385,RET-00385,9291,2025-03-04,2025-03-09,8,Product performance defect,Defective,Completed
+386,RET-00386,9301,2025-03-18,2025-03-21,17,Transit or packaging damage,Damaged,Completed
+387,RET-00387,9302,2025-03-21,2025-03-23,12,Customer changed purchase plan,Good,Completed
+388,RET-00388,9310,2025-03-13,2025-03-19,12,Product performance defect,Defective,Completed
+389,RET-00389,9317,2025-03-05,2025-03-07,6,Product performance defect,Defective,Completed
+390,RET-00390,9324,2025-03-07,2025-03-11,20,Customer ordered excess quantity,Unopened,Completed
+391,RET-00391,9325,2025-03-09,2025-03-13,30,Device did not power on,Not Working,Completed
+392,RET-00392,9342,2025-03-12,2025-03-13,33,Device did not power on,Not Working,Completed
+393,RET-00393,9413,2025-03-06,2025-03-08,15,Customer changed purchase plan,Good,Completed
+394,RET-00394,9428,2025-03-20,2025-03-24,19,Product performance defect,Defective,Completed
+395,RET-00395,9471,2025-03-18,2025-03-23,10,Customer changed purchase plan,Good,Completed
+396,RET-00396,9490,2025-03-26,2025-03-28,5,Customer changed purchase plan,Good,Completed
+397,RET-00397,9492,2025-03-12,2025-03-13,63,Transit or packaging damage,Damaged,Completed
+398,RET-00398,9538,2025-03-23,2025-03-24,16,Product performance defect,Defective,Completed
+399,RET-00399,9541,2025-03-20,2025-03-21,12,Product performance defect,Defective,Completed
+400,RET-00400,9569,2025-03-16,2025-03-18,32,Customer changed purchase plan,Good,Completed
+401,RET-00401,9669,2025-03-23,2025-03-24,7,Device did not power on,Not Working,Completed
+402,RET-00402,9685,2025-03-20,2025-03-26,27,Customer changed purchase plan,Good,Completed
+403,RET-00403,9697,2025-03-23,2025-03-25,41,Customer changed purchase plan,Good,Completed
+404,RET-00404,9711,2025-03-27,2025-04-01,39,Product performance defect,Defective,Completed
+405,RET-00405,9725,2025-03-28,2025-04-03,17,Transit or packaging damage,Damaged,Completed
+406,RET-00406,9741,2025-03-25,2025-03-27,77,Customer ordered excess quantity,Unopened,Completed
+407,RET-00407,9804,2025-03-25,2025-03-31,8,Customer ordered excess quantity,Unopened,Completed
+408,RET-00408,9898,2025-03-24,2025-03-25,20,Device did not power on,Not Working,Completed
+409,RET-00409,9917,2025-03-19,2025-03-25,13,Product performance defect,Defective,Completed
+410,RET-00410,9944,2025-03-28,2025-04-01,5,Transit or packaging damage,Damaged,Completed
+411,RET-00411,9983,2025-03-24,2025-03-25,17,Product performance defect,Defective,Completed
+412,RET-00412,10000,2025-03-20,2025-03-23,28,Transit or packaging damage,Damaged,Completed
+413,RET-00413,10002,2025-03-16,2025-03-19,8,Customer ordered excess quantity,Unopened,Completed
+414,RET-00414,10090,2025-04-26,2025-05-01,27,Customer changed purchase plan,Good,Completed
+415,RET-00415,10111,2025-04-22,2025-04-24,12,Transit or packaging damage,Damaged,Completed
+416,RET-00416,10112,2025-04-27,2025-04-30,1,Product performance defect,Defective,Completed
+417,RET-00417,10133,2025-04-29,2025-05-05,24,Transit or packaging damage,Damaged,Completed
+418,RET-00418,10157,2025-06-01,2025-06-03,34,Customer changed purchase plan,Good,Completed
+419,RET-00419,10186,2025-05-25,2025-05-27,19,Product performance defect,Defective,Completed
+420,RET-00420,10207,2025-06-01,2025-06-04,30,Product performance defect,Defective,Completed
+421,RET-00421,10210,2025-06-07,2025-06-09,58,Transit or packaging damage,Damaged,Completed
+422,RET-00422,10240,2025-06-09,2025-06-12,7,Customer changed purchase plan,Good,Completed
+423,RET-00423,10284,2025-05-29,2025-06-02,9,Product performance defect,Defective,Completed
+424,RET-00424,10398,2025-06-06,2025-06-11,14,Customer changed purchase plan,Good,Completed
+425,RET-00425,10418,2025-06-02,2025-06-08,5,Customer changed purchase plan,Good,Completed
+426,RET-00426,10442,2025-06-11,2025-06-13,7,Transit or packaging damage,Damaged,Completed
+427,RET-00427,10551,2025-06-08,2025-06-12,12,Product performance defect,Defective,Completed
+428,RET-00428,10593,2025-05-26,2025-05-28,28,Customer changed purchase plan,Good,Completed
+429,RET-00429,10598,2025-06-10,2025-06-13,16,Product performance defect,Defective,Completed
+430,RET-00430,10615,2025-06-06,2025-06-11,40,Customer changed purchase plan,Good,Completed
+431,RET-00431,10623,2025-06-09,2025-06-10,16,Customer changed purchase plan,Good,Completed
+432,RET-00432,10645,2025-06-02,2025-06-07,11,Transit or packaging damage,Damaged,Completed
+433,RET-00433,10672,2025-05-27,2025-06-01,39,Transit or packaging damage,Damaged,Completed
+434,RET-00434,10693,2025-06-01,2025-06-05,36,Customer changed purchase plan,Good,Completed
+435,RET-00435,10694,2025-06-04,2025-06-07,18,Transit or packaging damage,Damaged,Completed
+436,RET-00436,10708,2025-06-10,2025-06-14,23,Customer ordered excess quantity,Unopened,Completed
+437,RET-00437,10794,2025-06-10,2025-06-16,12,Device did not power on,Not Working,Completed
+438,RET-00438,10817,2025-06-04,2025-06-07,32,Product performance defect,Defective,Completed
+439,RET-00439,10838,2025-05-31,2025-06-04,27,Product performance defect,Defective,Completed
+440,RET-00440,10850,2025-06-15,2025-06-17,40,Transit or packaging damage,Damaged,Completed
+441,RET-00441,10904,2025-05-31,2025-06-03,23,Customer changed purchase plan,Good,Completed
+442,RET-00442,10942,2025-05-31,2025-06-05,14,Device did not power on,Not Working,Completed
+443,RET-00443,10971,2025-05-30,2025-06-01,28,Customer changed purchase plan,Good,Completed
+444,RET-00444,10976,2025-06-09,2025-06-15,32,Product performance defect,Defective,Completed
+445,RET-00445,10988,2025-05-26,2025-05-29,21,Device did not power on,Not Working,Completed
+446,RET-00446,11007,2025-06-02,2025-06-06,41,Product performance defect,Defective,Completed
+447,RET-00447,11099,2025-05-24,2025-05-28,11,Transit or packaging damage,Damaged,Completed
+448,RET-00448,11106,2025-05-26,2025-05-27,75,Customer changed purchase plan,Good,Completed
+449,RET-00449,11213,2025-05-30,2025-06-05,30,Transit or packaging damage,Damaged,Completed
+450,RET-00450,11325,2025-06-12,2025-06-17,13,Customer changed purchase plan,Good,Completed
+451,RET-00451,11371,2025-06-22,2025-06-25,26,Customer changed purchase plan,Good,Completed
+452,RET-00452,11409,2025-06-10,2025-06-13,43,Device did not power on,Not Working,Completed
+453,RET-00453,11537,2025-06-17,2025-06-22,12,Customer ordered excess quantity,Unopened,Completed
+454,RET-00454,11542,2025-06-17,2025-06-18,4,Product performance defect,Defective,Completed
+455,RET-00455,11570,2025-06-14,2025-06-19,17,Customer ordered excess quantity,Unopened,Completed
+456,RET-00456,11595,2025-06-16,2025-06-17,34,Transit or packaging damage,Damaged,Completed
+457,RET-00457,11597,2025-06-18,2025-06-20,22,Product performance defect,Defective,Completed
+458,RET-00458,11600,2025-06-06,2025-06-09,11,Customer changed purchase plan,Good,Completed
+459,RET-00459,11608,2025-06-19,2025-06-22,13,Product performance defect,Defective,Completed
+460,RET-00460,11742,2025-06-24,2025-06-29,23,Transit or packaging damage,Damaged,Completed
+461,RET-00461,11793,2025-06-07,2025-06-13,20,Transit or packaging damage,Damaged,Completed
+462,RET-00462,11800,2025-06-15,2025-06-20,30,Product performance defect,Defective,Completed
+463,RET-00463,11809,2025-06-14,2025-06-19,33,Transit or packaging damage,Damaged,Completed
+464,RET-00464,11865,2025-06-20,2025-06-26,20,Product performance defect,Defective,Completed
+465,RET-00465,11899,2025-06-12,2025-06-18,14,Product performance defect,Defective,Completed
+466,RET-00466,11921,2025-06-10,2025-06-16,25,Transit or packaging damage,Damaged,Completed
+467,RET-00467,11982,2025-06-17,2025-06-23,47,Product performance defect,Defective,Completed
+468,RET-00468,12001,2025-06-27,2025-07-01,14,Product performance defect,Defective,Completed
+469,RET-00469,12031,2025-06-27,2025-07-02,23,Customer changed purchase plan,Good,Completed
+470,RET-00470,12066,2025-06-22,2025-06-27,24,Transit or packaging damage,Damaged,Completed
+471,RET-00471,12078,2025-06-23,2025-06-26,5,Product performance defect,Defective,Completed
+472,RET-00472,12113,2025-06-19,2025-06-20,11,Transit or packaging damage,Damaged,Completed
+473,RET-00473,12163,2025-06-29,2025-07-02,37,Product performance defect,Defective,Completed
+474,RET-00474,12199,2025-06-30,2025-07-06,25,Device did not power on,Not Working,Completed
+475,RET-00475,12202,2025-06-30,2025-07-04,44,Product performance defect,Defective,Completed
+476,RET-00476,12236,2025-07-02,2025-07-06,13,Customer changed purchase plan,Good,Completed
+477,RET-00477,12241,2025-07-12,2025-07-18,17,Customer ordered excess quantity,Unopened,Completed
+478,RET-00478,12261,2025-06-26,2025-06-29,16,Customer changed purchase plan,Good,Completed
+479,RET-00479,12289,2025-07-04,2025-07-06,9,Transit or packaging damage,Damaged,Completed
+480,RET-00480,12290,2025-07-10,2025-07-14,10,Customer changed purchase plan,Good,Completed
+481,RET-00481,12325,2025-07-11,2025-07-13,48,Device did not power on,Not Working,Completed
+482,RET-00482,12328,2025-07-07,2025-07-11,25,Customer changed purchase plan,Good,Completed
+483,RET-00483,12358,2025-07-01,2025-07-03,15,Customer ordered excess quantity,Unopened,Completed
+484,RET-00484,12398,2025-07-03,2025-07-06,24,Product performance defect,Defective,Completed
+485,RET-00485,12401,2025-07-09,2025-07-15,21,Product performance defect,Defective,Completed
+486,RET-00486,12426,2025-07-05,2025-07-08,38,Device did not power on,Not Working,Completed
+487,RET-00487,12429,2025-06-28,2025-06-29,5,Product performance defect,Defective,Completed
+488,RET-00488,12523,2025-07-04,2025-07-05,33,Transit or packaging damage,Damaged,Completed
+489,RET-00489,12545,2025-07-17,2025-07-23,10,Transit or packaging damage,Damaged,Completed
+490,RET-00490,12547,2025-07-12,2025-07-18,8,Device did not power on,Not Working,Completed
+491,RET-00491,12567,2025-07-13,2025-07-17,37,Product performance defect,Defective,Completed
+492,RET-00492,12571,2025-07-13,2025-07-15,27,Transit or packaging damage,Damaged,Completed
+493,RET-00493,12623,2025-07-11,2025-07-17,8,Transit or packaging damage,Damaged,Completed
+494,RET-00494,12649,2025-07-21,2025-07-25,80,Device did not power on,Not Working,Completed
+495,RET-00495,12656,2025-07-17,2025-07-20,8,Product performance defect,Defective,Completed
+496,RET-00496,12687,2025-07-06,2025-07-09,66,Product performance defect,Defective,Completed
+497,RET-00497,12689,2025-07-04,2025-07-07,10,Customer changed purchase plan,Good,Completed
+498,RET-00498,12697,2025-07-08,2025-07-10,32,Transit or packaging damage,Damaged,Completed
+499,RET-00499,12698,2025-07-09,2025-07-15,17,Product performance defect,Defective,Completed
+500,RET-00500,12743,2025-07-13,2025-07-18,20,Transit or packaging damage,Damaged,Completed
+501,RET-00501,12762,2025-07-11,2025-07-16,38,Transit or packaging damage,Damaged,Completed
+502,RET-00502,12765,2025-07-07,2025-07-08,11,Customer ordered excess quantity,Unopened,Completed
+503,RET-00503,12837,2025-07-14,2025-07-15,23,Customer ordered excess quantity,Unopened,Completed
+504,RET-00504,12845,2025-07-17,2025-07-20,7,Customer changed purchase plan,Good,Completed
+505,RET-00505,12875,2025-07-20,2025-07-25,13,Product performance defect,Defective,Completed
+506,RET-00506,12899,2025-07-25,2025-07-29,18,Customer changed purchase plan,Good,Completed
+507,RET-00507,12903,2025-07-19,2025-07-24,29,Customer ordered excess quantity,Unopened,Completed
+508,RET-00508,12948,2025-07-09,2025-07-11,85,Product performance defect,Defective,Completed
+509,RET-00509,13016,2025-07-23,2025-07-28,51,Customer changed purchase plan,Good,Completed
+510,RET-00510,13024,2025-07-25,2025-07-28,63,Product performance defect,Defective,Completed
+511,RET-00511,13147,2025-07-17,2025-07-20,53,Customer changed purchase plan,Good,Completed
+512,RET-00512,13149,2025-07-24,2025-07-25,43,Customer ordered excess quantity,Unopened,Completed
+513,RET-00513,13150,2025-07-17,2025-07-18,55,Product performance defect,Defective,Completed
+514,RET-00514,13153,2025-07-13,2025-07-16,16,Transit or packaging damage,Damaged,Completed
+515,RET-00515,13169,2025-07-23,2025-07-28,56,Customer changed purchase plan,Good,Completed
+516,RET-00516,13192,2025-07-18,2025-07-19,34,Customer ordered excess quantity,Unopened,Completed
+517,RET-00517,13249,2025-07-16,2025-07-22,17,Product performance defect,Defective,Completed
+518,RET-00518,13295,2025-07-15,2025-07-21,30,Customer ordered excess quantity,Unopened,Completed
+519,RET-00519,13304,2025-07-20,2025-07-25,13,Product performance defect,Defective,Completed
+520,RET-00520,13344,2025-07-25,2025-07-29,38,Product performance defect,Defective,Completed
+521,RET-00521,13352,2025-07-21,2025-07-26,19,Customer ordered excess quantity,Unopened,Completed
+522,RET-00522,13356,2025-07-11,2025-07-17,8,Product performance defect,Defective,Completed
+523,RET-00523,13365,2025-07-22,2025-07-28,65,Product performance defect,Defective,Completed
+524,RET-00524,13373,2025-07-23,2025-07-26,30,Transit or packaging damage,Damaged,Completed
+525,RET-00525,13400,2025-07-24,2025-07-28,20,Device did not power on,Not Working,Completed
+526,RET-00526,13439,2025-07-22,2025-07-23,40,Transit or packaging damage,Damaged,Completed
+527,RET-00527,13457,2025-07-22,2025-07-25,16,Device did not power on,Not Working,Completed
+528,RET-00528,13458,2025-07-19,2025-07-21,4,Product performance defect,Defective,Completed
+529,RET-00529,13461,2025-07-14,2025-07-15,12,Customer ordered excess quantity,Unopened,Completed
+530,RET-00530,13480,2025-07-21,2025-07-23,11,Transit or packaging damage,Damaged,Completed
+531,RET-00531,13532,2025-07-19,2025-07-25,26,Product performance defect,Defective,Completed
+532,RET-00532,13544,2025-07-24,2025-07-30,27,Transit or packaging damage,Damaged,Completed
+533,RET-00533,13563,2025-07-17,2025-07-18,32,Customer ordered excess quantity,Unopened,Completed
+534,RET-00534,13583,2025-07-21,2025-07-27,1,Device did not power on,Not Working,Completed
+535,RET-00535,13594,2025-07-19,2025-07-24,5,Product performance defect,Defective,Completed
+536,RET-00536,13599,2025-08-18,2025-08-20,9,Customer changed purchase plan,Good,Completed
+537,RET-00537,13613,2025-08-09,2025-08-13,49,Transit or packaging damage,Damaged,Completed
+538,RET-00538,13615,2025-08-22,2025-08-25,4,Transit or packaging damage,Damaged,Completed
+539,RET-00539,13725,2025-08-09,2025-08-14,12,Product performance defect,Defective,Completed
+540,RET-00540,13734,2025-08-05,2025-08-10,31,Product performance defect,Defective,Completed
+541,RET-00541,13737,2025-08-14,2025-08-20,23,Customer ordered excess quantity,Unopened,Completed
+542,RET-00542,13745,2025-08-08,2025-08-11,5,Product performance defect,Defective,Completed
+543,RET-00543,13751,2025-08-11,2025-08-15,26,Product performance defect,Defective,Completed
+544,RET-00544,13857,2025-08-17,2025-08-20,27,Product performance defect,Defective,Completed
+545,RET-00545,13862,2025-08-24,2025-08-29,3,Customer changed purchase plan,Good,Completed
+546,RET-00546,14041,2025-08-15,2025-08-18,42,Product performance defect,Defective,Completed
+547,RET-00547,14043,2025-08-12,2025-08-16,27,Product performance defect,Defective,Completed
+548,RET-00548,14067,2025-08-25,2025-08-29,43,Device did not power on,Not Working,Completed
+549,RET-00549,14069,2025-08-22,2025-08-23,12,Customer ordered excess quantity,Unopened,Completed
+550,RET-00550,14084,2025-08-15,2025-08-19,14,Customer ordered excess quantity,Unopened,Completed
+551,RET-00551,14119,2025-08-15,2025-08-18,18,Customer changed purchase plan,Good,Completed
+552,RET-00552,14139,2025-08-14,2025-08-17,50,Customer ordered excess quantity,Unopened,Completed
+553,RET-00553,14211,2025-08-23,2025-08-28,5,Customer ordered excess quantity,Unopened,Completed
+554,RET-00554,14219,2025-08-27,2025-08-30,14,Device did not power on,Not Working,Completed
+555,RET-00555,14284,2025-08-16,2025-08-22,9,Transit or packaging damage,Damaged,Completed
+556,RET-00556,14362,2025-08-25,2025-08-31,34,Transit or packaging damage,Damaged,Completed
+557,RET-00557,14404,2025-08-22,2025-08-27,38,Device did not power on,Not Working,Completed
+558,RET-00558,14478,2025-08-19,2025-08-24,40,Transit or packaging damage,Damaged,Completed
+559,RET-00559,14489,2025-08-18,2025-08-20,34,Product performance defect,Defective,Completed
+560,RET-00560,14524,2025-08-23,2025-08-26,7,Customer changed purchase plan,Good,Completed
+561,RET-00561,14526,2025-08-25,2025-08-30,37,Product performance defect,Defective,Completed
+562,RET-00562,14533,2025-08-20,2025-08-21,19,Customer changed purchase plan,Good,Completed
+563,RET-00563,14559,2025-08-09,2025-08-13,12,Customer changed purchase plan,Good,Completed
+564,RET-00564,14586,2025-08-18,2025-08-20,16,Product performance defect,Defective,Completed
+565,RET-00565,14600,2025-08-16,2025-08-17,18,Device did not power on,Not Working,Completed
+566,RET-00566,14679,2025-08-21,2025-08-22,22,Transit or packaging damage,Damaged,Completed
+567,RET-00567,14711,2025-08-28,2025-09-03,12,Transit or packaging damage,Damaged,Completed
+568,RET-00568,14750,2025-08-21,2025-08-26,25,Product performance defect,Defective,Completed
+569,RET-00569,14832,2025-08-25,2025-08-29,9,Product performance defect,Defective,Completed
+570,RET-00570,14892,2025-09-03,2025-09-09,3,Device did not power on,Not Working,Completed
+571,RET-00571,14905,2025-09-05,2025-09-10,9,Customer changed purchase plan,Good,Completed
+572,RET-00572,14951,2025-08-31,2025-09-01,11,Device did not power on,Not Working,Completed
+573,RET-00573,14952,2025-09-03,2025-09-07,24,Transit or packaging damage,Damaged,Completed
+574,RET-00574,14957,2025-09-01,2025-09-04,20,Customer ordered excess quantity,Unopened,Completed
+575,RET-00575,14973,2025-08-25,2025-08-29,12,Transit or packaging damage,Damaged,Completed
+576,RET-00576,15019,2025-09-01,2025-09-06,61,Product performance defect,Defective,Completed
+577,RET-00577,15027,2025-09-06,2025-09-11,7,Transit or packaging damage,Damaged,Completed
+578,RET-00578,15039,2025-09-04,2025-09-10,31,Product performance defect,Defective,Completed
+579,RET-00579,15042,2025-08-24,2025-08-27,62,Product performance defect,Defective,Completed
+580,RET-00580,15076,2025-09-09,2025-09-15,18,Transit or packaging damage,Damaged,Completed
+581,RET-00581,15091,2025-09-05,2025-09-09,24,Product performance defect,Defective,Completed
+582,RET-00582,15155,2025-09-04,2025-09-10,4,Product performance defect,Defective,Completed
+583,RET-00583,15184,2025-09-07,2025-09-13,8,Device did not power on,Not Working,Completed
+584,RET-00584,15197,2025-09-08,2025-09-11,7,Product performance defect,Defective,Completed
+585,RET-00585,15201,2025-08-31,2025-09-04,23,Transit or packaging damage,Damaged,Completed
+586,RET-00586,15202,2025-09-07,2025-09-09,13,Customer ordered excess quantity,Unopened,Completed
+587,RET-00587,15214,2025-09-02,2025-09-07,16,Device did not power on,Not Working,Completed
+588,RET-00588,15226,2025-08-30,2025-09-05,5,Product performance defect,Defective,Completed
+589,RET-00589,15253,2025-09-03,2025-09-07,35,Customer changed purchase plan,Good,Completed
+590,RET-00590,15284,2025-09-04,2025-09-06,9,Product performance defect,Defective,Completed
+591,RET-00591,15315,2025-08-26,2025-08-30,8,Customer changed purchase plan,Good,Completed
+592,RET-00592,15316,2025-08-29,2025-09-01,11,Device did not power on,Not Working,Completed
+593,RET-00593,15324,2025-09-12,2025-09-13,15,Customer changed purchase plan,Good,Completed
+594,RET-00594,15400,2025-08-28,2025-09-03,21,Customer changed purchase plan,Good,Completed
+595,RET-00595,15421,2025-09-02,2025-09-03,18,Product performance defect,Defective,Completed
+596,RET-00596,15491,2025-08-27,2025-09-02,9,Customer changed purchase plan,Good,Completed
+597,RET-00597,15514,2025-09-03,2025-09-06,45,Product performance defect,Defective,Completed
+598,RET-00598,15531,2025-08-28,2025-08-30,29,Product performance defect,Defective,Completed
+599,RET-00599,15539,2025-09-06,2025-09-12,17,Product performance defect,Defective,Completed
+600,RET-00600,15540,2025-09-07,2025-09-13,20,Customer changed purchase plan,Good,Completed
+601,RET-00601,15563,2025-08-27,2025-09-01,51,Customer ordered excess quantity,Unopened,Completed
+602,RET-00602,15572,2025-09-03,2025-09-07,15,Transit or packaging damage,Damaged,Completed
+603,RET-00603,15582,2025-08-28,2025-09-01,18,Transit or packaging damage,Damaged,Completed
+604,RET-00604,15598,2025-09-01,2025-09-02,16,Transit or packaging damage,Damaged,Completed
+605,RET-00605,15608,2025-09-09,2025-09-11,11,Product performance defect,Defective,Completed
+606,RET-00606,15663,2025-09-04,2025-09-07,26,Customer changed purchase plan,Good,Completed
+607,RET-00607,15727,2025-09-08,2025-09-11,13,Product performance defect,Defective,Completed
+608,RET-00608,15737,2025-09-04,2025-09-07,40,Product performance defect,Defective,Completed
+609,RET-00609,15742,2025-09-15,2025-09-21,15,Product performance defect,Defective,Completed
+610,RET-00610,15752,2025-08-28,2025-08-31,15,Transit or packaging damage,Damaged,Completed
+611,RET-00611,15764,2025-09-10,2025-09-16,20,Customer changed purchase plan,Good,Completed
+612,RET-00612,15768,2025-08-29,2025-09-04,13,Customer changed purchase plan,Good,Completed
+613,RET-00613,15772,2025-08-29,2025-09-02,14,Product performance defect,Defective,Completed
+614,RET-00614,15814,2025-09-21,2025-09-24,22,Customer changed purchase plan,Good,Completed
+615,RET-00615,15822,2025-09-11,2025-09-12,18,Customer changed purchase plan,Good,Completed
+616,RET-00616,15851,2025-09-05,2025-09-11,12,Transit or packaging damage,Damaged,Completed
+617,RET-00617,15860,2025-09-23,2025-09-25,9,Transit or packaging damage,Damaged,Completed
+618,RET-00618,15864,2025-09-13,2025-09-19,19,Product performance defect,Defective,Completed
+619,RET-00619,15885,2025-09-23,2025-09-26,25,Transit or packaging damage,Damaged,Completed
+620,RET-00620,15898,2025-09-21,2025-09-24,43,Product performance defect,Defective,Completed
+621,RET-00621,15961,2025-09-14,2025-09-16,31,Product performance defect,Defective,Completed
+622,RET-00622,16014,2025-09-19,2025-09-22,24,Transit or packaging damage,Damaged,Completed
+623,RET-00623,16026,2025-09-12,2025-09-14,5,Device did not power on,Not Working,Completed
+624,RET-00624,16035,2025-09-14,2025-09-16,35,Device did not power on,Not Working,Completed
+625,RET-00625,16038,2025-09-07,2025-09-09,12,Product performance defect,Defective,Completed
+626,RET-00626,16044,2025-09-21,2025-09-27,23,Customer changed purchase plan,Good,Completed
+627,RET-00627,16083,2025-09-08,2025-09-12,11,Product performance defect,Defective,Completed
+628,RET-00628,16109,2025-09-08,2025-09-12,67,Customer ordered excess quantity,Unopened,Completed
+629,RET-00629,16133,2025-09-20,2025-09-25,15,Transit or packaging damage,Damaged,Completed
+630,RET-00630,16143,2025-09-09,2025-09-14,88,Customer changed purchase plan,Good,Completed
+631,RET-00631,16159,2025-09-09,2025-09-11,50,Product performance defect,Defective,Completed
+632,RET-00632,16162,2025-09-17,2025-09-18,40,Customer ordered excess quantity,Unopened,Completed
+633,RET-00633,16211,2025-10-17,2025-10-19,19,Customer changed purchase plan,Good,Completed
+634,RET-00634,16213,2025-10-12,2025-10-15,31,Customer changed purchase plan,Good,Completed
+635,RET-00635,16299,2025-10-03,2025-10-04,40,Product performance defect,Defective,Completed
+636,RET-00636,16304,2025-10-06,2025-10-10,9,Transit or packaging damage,Damaged,Completed
+637,RET-00637,16321,2025-10-13,2025-10-19,9,Product performance defect,Defective,Completed
+638,RET-00638,16325,2025-10-10,2025-10-13,12,Product performance defect,Defective,Completed
+639,RET-00639,16367,2025-10-01,2025-10-04,9,Customer changed purchase plan,Good,Completed
+640,RET-00640,16381,2025-10-01,2025-10-07,12,Transit or packaging damage,Damaged,Completed
+641,RET-00641,16390,2025-10-03,2025-10-06,6,Customer changed purchase plan,Good,Completed
+642,RET-00642,16402,2025-10-07,2025-10-13,17,Transit or packaging damage,Damaged,Completed
+643,RET-00643,16444,2025-10-01,2025-10-07,20,Transit or packaging damage,Damaged,Completed
+644,RET-00644,16470,2025-10-04,2025-10-07,71,Device did not power on,Not Working,Completed
+645,RET-00645,16473,2025-10-04,2025-10-10,24,Customer changed purchase plan,Good,Completed
+646,RET-00646,16481,2025-10-08,2025-10-14,28,Product performance defect,Defective,Completed
+647,RET-00647,16512,2025-10-08,2025-10-11,16,Device did not power on,Not Working,Completed
+648,RET-00648,16525,2025-10-01,2025-10-04,17,Product performance defect,Defective,Completed
+649,RET-00649,16528,2025-10-06,2025-10-11,26,Transit or packaging damage,Damaged,Completed
+650,RET-00650,16533,2025-10-07,2025-10-10,6,Customer ordered excess quantity,Unopened,Completed
+651,RET-00651,16548,2025-10-09,2025-10-10,39,Product performance defect,Defective,Completed
+652,RET-00652,16555,2025-10-13,2025-10-16,9,Transit or packaging damage,Damaged,Completed
+653,RET-00653,16560,2025-10-10,2025-10-16,22,Customer changed purchase plan,Good,Completed
+654,RET-00654,16585,2025-10-09,2025-10-10,12,Product performance defect,Defective,Completed
+655,RET-00655,16593,2025-10-01,2025-10-07,28,Product performance defect,Defective,Completed
+656,RET-00656,16622,2025-10-14,2025-10-17,10,Device did not power on,Not Working,Completed
+657,RET-00657,16659,2025-10-06,2025-10-12,35,Customer changed purchase plan,Good,Completed
+658,RET-00658,16697,2025-10-06,2025-10-11,5,Device did not power on,Not Working,Completed
+659,RET-00659,16706,2025-09-30,2025-10-04,11,Transit or packaging damage,Damaged,Completed
+660,RET-00660,16822,2025-10-02,2025-10-07,69,Product performance defect,Defective,Completed
+661,RET-00661,16839,2025-10-08,2025-10-14,27,Product performance defect,Defective,Completed
+662,RET-00662,16867,2025-10-16,2025-10-17,18,Product performance defect,Defective,Completed
+663,RET-00663,16903,2025-10-08,2025-10-14,46,Product performance defect,Defective,Completed
+664,RET-00664,16930,2025-10-13,2025-10-19,15,Transit or packaging damage,Damaged,Completed
+665,RET-00665,16933,2025-10-09,2025-10-12,16,Customer changed purchase plan,Good,Completed
+666,RET-00666,16936,2025-10-11,2025-10-15,7,Product performance defect,Defective,Completed
+667,RET-00667,16942,2025-09-30,2025-10-02,12,Device did not power on,Not Working,Completed
+668,RET-00668,16972,2025-10-09,2025-10-11,53,Transit or packaging damage,Damaged,Completed
+669,RET-00669,16987,2025-10-10,2025-10-16,10,Customer changed purchase plan,Good,Completed
+670,RET-00670,16997,2025-10-11,2025-10-14,35,Transit or packaging damage,Damaged,Completed
+671,RET-00671,17023,2025-10-06,2025-10-08,41,Product performance defect,Defective,Completed
+672,RET-00672,17031,2025-10-07,2025-10-13,23,Device did not power on,Not Working,Completed
+673,RET-00673,17041,2025-10-15,2025-10-20,35,Device did not power on,Not Working,Completed
+674,RET-00674,17068,2025-10-10,2025-10-11,25,Transit or packaging damage,Damaged,Completed
+675,RET-00675,17082,2025-10-26,2025-10-27,12,Customer ordered excess quantity,Unopened,Completed
+676,RET-00676,17087,2025-10-25,2025-10-31,22,Customer ordered excess quantity,Unopened,Completed
+677,RET-00677,17091,2025-10-28,2025-11-01,19,Customer ordered excess quantity,Unopened,Completed
+678,RET-00678,17093,2025-10-28,2025-10-31,6,Transit or packaging damage,Damaged,Completed
+679,RET-00679,17094,2025-10-22,2025-10-28,22,Transit or packaging damage,Damaged,Completed
+680,RET-00680,17105,2025-10-23,2025-10-27,6,Product performance defect,Defective,Completed
+681,RET-00681,17114,2025-10-19,2025-10-23,21,Product performance defect,Defective,Completed
+682,RET-00682,17152,2025-10-22,2025-10-24,9,Customer ordered excess quantity,Unopened,Completed
+683,RET-00683,17159,2025-10-30,2025-11-02,25,Device did not power on,Not Working,Completed
+684,RET-00684,17186,2025-10-29,2025-10-31,18,Customer ordered excess quantity,Unopened,Completed
+685,RET-00685,17255,2025-10-26,2025-10-31,12,Customer changed purchase plan,Good,Completed
+686,RET-00686,17271,2025-10-28,2025-10-29,68,Product performance defect,Defective,Completed
+687,RET-00687,17309,2025-10-18,2025-10-20,12,Customer ordered excess quantity,Unopened,Completed
+688,RET-00688,17313,2025-11-03,2025-11-04,6,Product performance defect,Defective,Completed
+689,RET-00689,17323,2025-10-31,2025-11-02,24,Device did not power on,Not Working,Completed
+690,RET-00690,17349,2025-10-19,2025-10-22,23,Device did not power on,Not Working,Completed
+691,RET-00691,17373,2025-10-27,2025-10-30,36,Transit or packaging damage,Damaged,Completed
+692,RET-00692,17403,2025-10-30,2025-11-01,24,Product performance defect,Defective,Completed
+693,RET-00693,17405,2025-10-30,2025-10-31,17,Customer ordered excess quantity,Unopened,Completed
+694,RET-00694,17444,2025-10-20,2025-10-25,56,Customer changed purchase plan,Good,Completed
+695,RET-00695,17496,2025-11-04,2025-11-09,7,Product performance defect,Defective,Completed
+696,RET-00696,17504,2025-10-20,2025-10-25,22,Customer ordered excess quantity,Unopened,Completed
+697,RET-00697,17506,2025-10-25,2025-10-30,19,Product performance defect,Defective,Completed
+698,RET-00698,17511,2025-10-26,2025-10-28,49,Device did not power on,Not Working,Completed
+699,RET-00699,17542,2025-10-27,2025-10-30,23,Customer changed purchase plan,Good,Completed
+700,RET-00700,17543,2025-10-20,2025-10-26,18,Product performance defect,Defective,Completed
+701,RET-00701,17551,2025-10-22,2025-10-25,16,Product performance defect,Defective,Completed
+702,RET-00702,17574,2025-11-04,2025-11-10,12,Transit or packaging damage,Damaged,Completed
+703,RET-00703,17590,2025-10-19,2025-10-22,45,Product performance defect,Defective,Completed
+704,RET-00704,17603,2025-10-27,2025-10-29,23,Product performance defect,Defective,Completed
+705,RET-00705,17609,2025-11-07,2025-11-11,7,Product performance defect,Defective,Completed
+706,RET-00706,17633,2025-11-02,2025-11-07,15,Product performance defect,Defective,Completed
+707,RET-00707,17638,2025-10-24,2025-10-27,34,Customer changed purchase plan,Good,Completed
+708,RET-00708,17659,2025-10-19,2025-10-20,15,Customer ordered excess quantity,Unopened,Completed
+709,RET-00709,17704,2025-10-26,2025-10-28,39,Product performance defect,Defective,Completed
+710,RET-00710,17707,2025-10-28,2025-10-30,9,Product performance defect,Defective,Completed
+711,RET-00711,17710,2025-11-04,2025-11-05,20,Transit or packaging damage,Damaged,Completed
+712,RET-00712,17776,2025-11-07,2025-11-12,17,Device did not power on,Not Working,Completed
+713,RET-00713,17784,2025-11-06,2025-11-12,16,Customer changed purchase plan,Good,Completed
+714,RET-00714,17791,2025-11-10,2025-11-11,9,Transit or packaging damage,Damaged,Completed
+715,RET-00715,17819,2025-11-12,2025-11-17,30,Customer changed purchase plan,Good,Completed
+716,RET-00716,17851,2025-11-14,2025-11-15,10,Product performance defect,Defective,Completed
+717,RET-00717,17869,2025-11-09,2025-11-10,23,Customer changed purchase plan,Good,Completed
+718,RET-00718,17878,2025-10-30,2025-11-02,27,Customer changed purchase plan,Good,Completed
+719,RET-00719,17879,2025-11-11,2025-11-15,16,Product performance defect,Defective,Completed
+720,RET-00720,17912,2025-10-29,2025-11-04,7,Product performance defect,Defective,Completed
+721,RET-00721,17930,2025-10-28,2025-11-01,52,Device did not power on,Not Working,Completed
+722,RET-00722,17947,2025-11-04,2025-11-08,17,Device did not power on,Not Working,Completed
+723,RET-00723,17967,2025-11-11,2025-11-17,25,Customer ordered excess quantity,Unopened,Completed
+724,RET-00724,17973,2025-11-01,2025-11-05,24,Customer changed purchase plan,Good,Completed
+725,RET-00725,17994,2025-10-31,2025-11-02,8,Customer changed purchase plan,Good,Completed
+726,RET-00726,18011,2025-11-09,2025-11-12,31,Product performance defect,Defective,Completed
+727,RET-00727,18022,2025-11-12,2025-11-17,30,Customer ordered excess quantity,Unopened,Completed
+728,RET-00728,18081,2025-11-03,2025-11-07,7,Device did not power on,Not Working,Completed
+729,RET-00729,18104,2025-10-30,2025-11-04,41,Device did not power on,Not Working,Completed
+730,RET-00730,18124,2025-11-07,2025-11-11,14,Customer changed purchase plan,Good,Completed
+731,RET-00731,18136,2025-11-05,2025-11-09,64,Customer changed purchase plan,Good,Completed
+732,RET-00732,18191,2025-10-31,2025-11-02,27,Product performance defect,Defective,Completed
+733,RET-00733,18199,2025-11-10,2025-11-13,73,Device did not power on,Not Working,Completed
+734,RET-00734,18240,2025-11-12,2025-11-18,25,Product performance defect,Defective,Completed
+735,RET-00735,18262,2025-10-30,2025-11-01,18,Transit or packaging damage,Damaged,Completed
+736,RET-00736,18268,2025-11-06,2025-11-09,11,Transit or packaging damage,Damaged,Completed
+737,RET-00737,18314,2025-11-13,2025-11-15,12,Transit or packaging damage,Damaged,Completed
+738,RET-00738,18328,2025-11-08,2025-11-10,8,Transit or packaging damage,Damaged,Completed
+739,RET-00739,18335,2025-11-12,2025-11-14,35,Product performance defect,Defective,Completed
+740,RET-00740,18344,2025-11-05,2025-11-06,7,Customer ordered excess quantity,Unopened,Completed
+741,RET-00741,18352,2025-11-07,2025-11-09,9,Device did not power on,Not Working,Completed
+742,RET-00742,18355,2025-11-11,2025-11-14,38,Customer changed purchase plan,Good,Completed
+743,RET-00743,18405,2025-11-19,2025-11-22,12,Customer changed purchase plan,Good,Completed
+744,RET-00744,18417,2025-11-02,2025-11-06,18,Device did not power on,Not Working,Completed
+745,RET-00745,18440,2025-11-14,2025-11-19,31,Customer changed purchase plan,Good,Completed
+746,RET-00746,18455,2025-11-04,2025-11-06,9,Product performance defect,Defective,Completed
+747,RET-00747,18469,2025-11-11,2025-11-15,42,Customer ordered excess quantity,Unopened,Completed
+748,RET-00748,18482,2025-11-05,2025-11-09,7,Transit or packaging damage,Damaged,Completed
+749,RET-00749,18484,2025-11-07,2025-11-08,45,Transit or packaging damage,Damaged,Completed
+750,RET-00750,18492,2025-11-15,2025-11-21,24,Device did not power on,Not Working,Completed
+751,RET-00751,18602,2025-11-16,2025-11-21,13,Transit or packaging damage,Damaged,Completed
+752,RET-00752,18604,2025-11-13,2025-11-14,11,Device did not power on,Not Working,Completed
+753,RET-00753,18622,2025-11-10,2025-11-11,26,Product performance defect,Defective,Completed
+754,RET-00754,18631,2025-11-03,2025-11-04,63,Transit or packaging damage,Damaged,Completed
+755,RET-00755,18668,2025-11-19,2025-11-21,6,Device did not power on,Not Working,Completed
+756,RET-00756,18785,2025-11-16,2025-11-19,17,Customer ordered excess quantity,Unopened,Completed
+757,RET-00757,18820,2025-11-23,2025-11-24,59,Product performance defect,Defective,Completed
+758,RET-00758,18851,2025-11-25,2025-11-29,28,Transit or packaging damage,Damaged,Completed
+759,RET-00759,18933,2025-11-17,2025-11-23,12,Product performance defect,Defective,Completed
+760,RET-00760,18941,2025-11-23,2025-11-25,41,Device did not power on,Not Working,Completed
+761,RET-00761,18944,2025-11-13,2025-11-16,14,Product performance defect,Defective,Completed
+762,RET-00762,18988,2025-11-20,2025-11-21,12,Transit or packaging damage,Damaged,Completed
+763,RET-00763,18990,2025-11-25,2025-11-30,13,Customer changed purchase plan,Good,Completed
+764,RET-00764,18994,2025-11-24,2025-11-30,14,Product performance defect,Defective,Completed
+765,RET-00765,19023,2025-11-22,2025-11-28,7,Product performance defect,Defective,Completed
+766,RET-00766,19040,2025-11-19,2025-11-21,45,Customer changed purchase plan,Good,Completed
+767,RET-00767,19051,2025-11-21,2025-11-22,30,Device did not power on,Not Working,Completed
+768,RET-00768,19063,2025-11-26,2025-12-02,19,Product performance defect,Defective,Completed
+769,RET-00769,19086,2025-11-22,2025-11-27,57,Transit or packaging damage,Damaged,Completed
+770,RET-00770,19109,2025-11-25,2025-11-29,33,Product performance defect,Defective,Completed
+771,RET-00771,19147,2025-12-04,2025-12-06,12,Customer ordered excess quantity,Unopened,Completed
+772,RET-00772,19175,2025-11-21,2025-11-24,27,Customer ordered excess quantity,Unopened,Completed
+773,RET-00773,19205,2025-11-20,2025-11-26,28,Transit or packaging damage,Damaged,Completed
+774,RET-00774,19260,2025-12-09,2025-12-10,76,Product performance defect,Defective,Completed
+775,RET-00775,19261,2025-12-04,2025-12-10,19,Transit or packaging damage,Damaged,Completed
+776,RET-00776,19292,2025-12-08,2025-12-12,18,Transit or packaging damage,Damaged,Completed
+777,RET-00777,19334,2025-12-04,2025-12-10,69,Product performance defect,Defective,Completed
+778,RET-00778,19429,2025-12-03,2025-12-08,26,Product performance defect,Defective,Completed
+779,RET-00779,19439,2025-11-30,2025-12-05,21,Customer ordered excess quantity,Unopened,Completed
+780,RET-00780,19526,2025-12-10,2025-12-15,14,Device did not power on,Not Working,Completed
+781,RET-00781,19528,2025-12-02,2025-12-04,52,Transit or packaging damage,Damaged,Completed
+782,RET-00782,19543,2025-12-08,2025-12-11,22,Customer changed purchase plan,Good,Completed
+783,RET-00783,19600,2025-12-11,2025-12-15,34,Product performance defect,Defective,Completed
+784,RET-00784,19609,2025-12-14,2025-12-16,23,Device did not power on,Not Working,Completed
+785,RET-00785,19659,2025-12-08,2025-12-13,15,Product performance defect,Defective,Completed
+786,RET-00786,19675,2025-12-08,2025-12-14,25,Product performance defect,Defective,Completed
+787,RET-00787,19684,2025-12-07,2025-12-10,10,Customer ordered excess quantity,Unopened,Completed
+788,RET-00788,19699,2025-12-12,2025-12-13,21,Product performance defect,Defective,Completed

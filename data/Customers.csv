@@ -1,0 +1,351 @@
+﻿customer_id,customer_code,customer_name,customer_type,email,phone,country,city,address,registration_date,default_discount_percentage,status
+1,CUS-0001,Al Ahram Smart Devices,E-commerce Retailer,purchasing.0001@al.ahram.smart.devices.eg,01151948597,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-02,5,Active
+2,CUS-0002,Al Yasmeen Electronics Hub  ,Reseller,purchasing.0002@al.yasmeen.electronics.hub.eg,01251956516,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-12,2.5,Active
+3,CUS-0003,Al Safwa Business Solutions,Retail Chain,purchasing.0003@al.safwa.business.solutions.eg,01551964435,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-04,5,Active
+4,CUS-0004,El Mostaqbal Digital Market,Retail Chain,purchasing.0004@el.mostaqbal.digital.market.eg,01051972354,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-01,2.5,Active
+5,CUS-0005,El Shorouk Computer Center,Distributor,purchasing.0005@el.shorouk.computer.center.eg,01151980273,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-03,10,Active
+6,CUS-0006,El Hoda Modern Technology,Reseller,purchasing.0006@el.hoda.modern.technology.eg,01251988192,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-24,0,Active
+7,CUS-0007,Al Rowad Electronics Trading,Distributor,purchasing.0007@al.rowad.electronics.trading.eg,01551996111,Egypt,DAKAHLIA,Mansoura -  El Gomhoria Street,2024-07-03,10,Active
+8,CUS-0008,Al Madina Technology Distribution,Corporate Customer,purchasing.0008@al.madina.technology.distribution.eg,01052004030,Egypt,Damietta,New Damietta -  Central District,2024-07-08,2.5,Active
+9,CUS-0009,Nile Device Retail,Corporate Customer,purchasing.0009@nile.device.retail.eg,01152011949,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-08,2.5,Active
+10,CUS-0010,Al Watania Mobile Stores,Distributor,purchasing.0010@al.watania.mobile.stores.eg,01252019868,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-20,10,Active
+11,CUS-0011,Al Basha Smart Devices,Corporate Customer,purchasing.0011@al.basha.smart.devices.eg,01552027787,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-23,2.5,Active
+12,CUS-0012,Canal Electronics Hub,Reseller,purchasing.0012@canal.electronics.hub.eg,01052035706,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-08-21,5,Active
+13,CUS-0013,Al Fares Business Solutions,Retail Chain,Purchasing.0013@al.fares.business.solutions.eg,01152043625,Egypt,Suez,Ataqa Industrial Zone,2024-07-19,5,Active
+14,CUS-0014,El Tahrir Digital Market,Regional Distributor,purchasing.0014@el.tahrir.digital.market.eg,01252051544,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-02,10,Active
+15,CUS-0015,Delta Computer Center,Retail Chain,purchasing.0015@delta.computer.center.eg,01552059463,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-08,10,Active
+16,CUS-0016,El Nasr Modern Technology,Corporate Customer,purchasing.0016@el.nasr.modern.technology.eg,01052067382,Egypt,North Sinai,Arish -  23 July Street,2024-07-10,5,Active
+17,CUS-0017,Al Forsan Electronics Trading,Regional Distributor,purchasing.0017@al.forsan.electronics.trading.eg,01152075301,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-03,7.5,Active
+18,CUS-0018,Misr Technology Distribution,Corporate Customer,purchasing.0018@misr.technology.distribution.eg,01252083220,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-11,2.5,Active
+19,CUS-0019,Al Amal Device Retail,Regional Distributor,purchasing.0019@al.amal.device.retail.eg,01552091139,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-08-22,7.5,Active
+20,CUS-0020,Al Noor Mobile Stores,E-commerce Retailer,purchasing.0020@al.noor.mobile.stores.eg,01052099058,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-20,5,Active
+21,CUS-0021,Al Ahram Smart Devices 2,E-commerce Retailer,purchasing.0021@al.ahram.smart.devices.2.eg,01152106977,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-09,7.5,Active
+22,CUS-0022,Al Yasmeen Electronics Hub 2,Reseller,purchasing.0022@al.yasmeen.electronics.hub.2.eg,01252114896,Egypt,Giza,Dokki -  Tahrir Street,2024-07-01,2.5,Active
+23,CUS-0023,Al Safwa Business Solutions 2,E-commerce Retailer,purchasing.0023@al.safwa.business.solutions.2.eg,01552122815,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-08-26,2.5,Active
+24,CUS-0024,El Mostaqbal Digital Market 2,E-commerce Retailer,purchasing.0024@el.mostaqbal.digital.market.2.eg,01052130734,Egypt,Port Said,El Arab District -  23 July Street,2024-07-11,5,Active
+25,CUS-0025,El Shorouk Computer Center 2,Distributor,purchasing.0025@el.shorouk.computer.center.2.eg,01152138653,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-06,10,Active
+26,CUS-0026,El Hoda Modern Technology 2,Distributor,purchasing.0026@el.hoda.modern.technology.2.eg,01252146572,Egypt,Qena,Qena City -   23 July Street,2024-07-11,12.5,Active
+27,CUS-0027,Al Rowad Electronics Trading 2,Distributor,purchasing.0027@al.rowad.electronics.trading.2.eg,01552154491,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-02,5,Active
+28,CUS-0028,Al Madina Technology Distribution 2,E-commerce Retailer,purchasing.0028@al.madina.technology.distribution.2.eg,01052162410,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-08-17,10,Active
+29,CUS-0029,Nile Device Retail 2,Distributor,purchasing.0029@nile.device.retail.2.eg,01152170329,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-08,10,Active
+30,CUS-0030,Al Watania Mobile Stores 2,Regional Distributor,purchasing.0030@al.watania.mobile.stores.2.eg,01252178248,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-05,10,Active
+31,CUS-0031,Al Basha Smart Devices 2,Retail Chain,purchasing.0031@al.basha.smart.devices.2.eg,01552186167,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-22,2.5,Active
+32,CUS-0032,Canal Electronics Hub 2,Regional Distributor,purchasing.0032@canal.electronics.hub.2.eg,01052194086,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-08,10,Active
+33,CUS-0033,Al Fares Business Solutions 2,Retail Chain,purchasing.0033@al.fares.business.solutions.2.eg,01152202005,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-03,10,Active
+34,CUS-0034,El Tahrir Digital Market 2,Reseller,purchasing.0034@el.tahrir.digital.market.2.eg,01252209924,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-02,5,Active
+35,CUS-0035,Delta Computer Center 2,Retail Chain,purchasing.0035@delta.computer.center.2.eg,01552217843,Egypt,Damietta,New Damietta -  Central District,2024-07-08,5,Active
+36,CUS-0036,El Nasr Modern Technology 2,Reseller,purchasing.0036@el.nasr.modern.technology.2.eg,01052225762,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-04,2.5,Active
+37,CUS-0037,Al Forsan Electronics Trading 2,Reseller,purchasing.0037@al.forsan.electronics.trading.2.eg,01152233681,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-12,2.5,Active
+38,CUS-0038,Misr Technology Distribution 2,Regional Distributor,purchasing.0038@misr.technology.distribution.2.eg,01252241600,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-15,5,Active
+39,CUS-0039,Al Amal Device Retail 2,E-commerce Retailer,purchasing.0039@al.amal.device.retail.2.eg,01552249519,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-11,7.5,Active
+40,CUS-0040,Al Noor Mobile Stores 2,Reseller,,01052257438,Egypt,Suez,Ataqa Industrial Zone,2024-08-16,0,Active
+41,CUS-0041,Al Ahram Smart Devices 3,Distributor,purchasing.0041@al.ahram.smart.devices.3.eg,01152265357,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-10,7.5,Active
+42,CUS-0042,Al Yasmeen Electronics Hub 3,Distributor,purchasing.0042@al.yasmeen.electronics.hub.3.eg,01252273276,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-07,7.5,Active
+43,CUS-0043,Al Safwa Business Solutions 3,Distributor,purchasing.0043@al.safwa.business.solutions.3.eg,01552281195,Egypt,north sinai,Arish -  23 July Street,2024-07-04,7.5,Active
+44,CUS-0044,El Mostaqbal Digital Market 3,Retail Chain,purchasing.0044@el.mostaqbal.digital.market.3.eg,01052289114,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-03,5,Active
+45,CUS-0045,El Shorouk Computer Center 3,Retail Chain,purchasing.0045@el.shorouk.computer.center.3.eg,01152297033,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-08,7.5,Active
+46,CUS-0046,El Hoda Modern Technology 3,Distributor,,01252304952,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-07-27,5,Active
+47,CUS-0047,Al Rowad Electronics Trading 3,Reseller,purchasing.0047@al.rowad.electronics.trading.3.eg,01552312871,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-06,2.5,Active
+48,CUS-0048,Al Madina Technology Distribution 3,Reseller,purchasing.0048@al.madina.technology.distribution.3.eg,01052320790,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-05,2.5,Active
+49,CUS-0049,Nile Device Retail 3,Reseller, PURCHASING.0049@NILE.DEVICE.RETAIL.3.EG ,01152328709,Egypt,Giza,Dokki -  Tahrir Street,2024-07-04,2.5,Active
+50,CUS-0050,Al Watania Mobile Stores 3,Reseller,purchasing.0050@al.watania.mobile.stores.3.eg,01252336628,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-07-08,2.5,Active
+51,CUS-0051,Al Basha Smart Devices 3,Reseller,purchasing.0051@al.basha.smart.devices.3.eg,01552344547,Egypt,Port Said,El Arab District -  23 July Street,2024-07-03,5,Active
+52,CUS-0052,Canal Electronics Hub 3,Retail Chain,purchasing.0052@canal.electronics.hub.3.eg,01052352466,Egypt,beheira,Damanhour -  El Gomhoria Street,2024-07-20,5,Active
+53,CUS-0053,Al Fares Business Solutions 3  ,Retail Chain,purchasing.0053@al.fares.business.solutions.3.eg,01152360385,Egypt,Qena,Qena City -  23 July Street,2024-07-12,2.5,Active
+54,CUS-0054,El Tahrir Digital Market 3,E-commerce Retailer,purchasing.0054@el.tahrir.digital.market.3.eg,01252368304,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-03,10,Active
+55,CUS-0055,Delta Computer Center 3,Regional Distributor,purchasing.0055@delta.computer.center.3.eg,01552376223,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-25,12.5,Active
+56,CUS-0056,El Nasr Modern Technology 3,Reseller,purchasing.0056@el.nasr.modern.technology.3.eg,01052384142,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-08-21,2.5,Active
+57,CUS-0057,Al Forsan Electronics Trading 3,Regional Distributor,purchasing.0057@al.forsan.electronics.trading.3.eg,01152392061,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-25,12.5,Active
+58,CUS-0058,Misr Technology Distribution 3,Corporate Customer,purchasing.0058@misr.technology.distribution.3.eg,01252399980,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-06,0,Active
+59,CUS-0059,Al Amal Device Retail 3,Retail Chain,purchasing.0059@al.amal.device.retail.3.eg,01552407899,Egypt,Red Sea ,Hurghada -  El Nasr Road,2024-08-03,5,Active
+60,CUS-0060,Al Noor Mobile Stores 3,REGIONAL DISTRIBUTOR,purchasing.0060@al.noor.mobile.stores.3.eg,01052415818,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-24,10,Active
+61,CUS-0061,  Al Ahram Smart Devices 4,Distributor,purchasing.0061@al.ahram.smart.devices.4.eg,01152423737,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-02,10,Active
+62,CUS-0062,Al Yasmeen Electronics Hub 4,Retail Chain,purchasing.0062@al.yasmeen.electronics.hub.4.eg,01252431656,Egypt,Damietta,New Damietta -  Central District,2024-08-06,2.5,Active
+63,CUS-0063,Al Safwa Business Solutions 4,Corporate Customer,purchasing.0063@al.safwa.business.solutions.4.eg,01552439575,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-04,5,Active
+64,CUS-0064,El Mostaqbal Digital Market 4,E-commerce Retailer,purchasing.0064@el.mostaqbal.digital.market.4.eg,01052447494,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-13,10,Active
+65,CUS-0065,El Shorouk Computer Center 4,Reseller,purchasing.0065@el.shorouk.computer.center.4.eg,01152455413,Egypt,Cairo,New Cairo -  North 90th Street,2024-08-01,5,Active
+66,CUS-0066,El Hoda Modern Technology 4,E-commerce Retailer,purchasing.0066@el.hoda.modern.technology.4.eg,01252463332,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-07,7.5,Active
+67,CUS-0067,Al Rowad Electronics Trading 4,Regional Distributor,purchasing.0067@al.rowad.electronics.trading.4.eg,01552471251,Egypt,Suez,Ataqa Industrial Zone,2024-07-14,10,Active
+68,CUS-0068,Al Madina Technology Distribution 4,Regional Distributor,purchasing.0068@al.madina.technology.distribution.4.eg,01052479170,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-04,5,Active
+69,CUS-0069,Nile Device Retail 4,Regional Distributor,purchasing.0069@nile.device.retail.4.eg,01152487089,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-08-02,10,Active
+70,CUS-0070,Al Watania Mobile Stores 4,Corporate Customer,purchasing.0070@al.watania.mobile.stores.4.eg,01252495008,Egypt,North Sinai,Arish -  23 July Street,2024-07-02,2.5,Active
+71,CUS-0071,Al Basha Smart Devices 4,Distributor,purchasing.0071@al.basha.smart.devices.4.eg,01552502927,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-04,5,Active
+72,CUS-0072,Canal Electronics Hub 4,Reseller,purchasing.0072@canal.electronics.hub.4.eg,01052510846,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-04,0,Active
+73,CUS-0073,Al Fares Business Solutions 4,Corporate Customer,purchasing.0073@al.fares.business.solutions.4.eg,01152518765,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-07-01,0,Active
+74,CUS-0074,El Tahrir Digital Market 4,Retail Chain,purchasing.0074@el.tahrir.digital.market.4.eg,01252526684,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-08-01,2.5,Active
+75,CUS-0075,Delta Computer Center 4,E-commerce Retailer,Purchasing.0075@delta.computer.center.4.eg,01552534603,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-01,5,Active
+76,CUS-0076,El Nasr Modern Technology 4,Retail Chain,purchasing.0076@el.nasr.modern.technology.4.eg,01052542522,Egypt,Giza,Dokki -  Tahrir Street,2024-07-26,5,Active
+77,CUS-0077,Al Forsan Electronics Trading 4,Corporate Customer,purchasing.0077@al.forsan.electronics.trading.4.eg,01152550441,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-07-27,5,Active
+78,CUS-0078,Misr Technology Distribution 4,Retail Chain,purchasing.0078@misr.technology.distribution.4.eg,01252558360,Egypt,Port Said,El Arab District -  23 July Street,2024-07-03,5,Active
+79,CUS-0079,Al Amal Device Retail 4,Regional Distributor,purchasing.0079@al.amal.device.retail.4.eg,01552566279,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-07,5,Active
+80,CUS-0080,Al Noor Mobile Stores 4,E-commerce Retailer,purchasing.0080@al.noor.mobile.stores.4.eg,01052574198,Egypt,Qena,Qena City -  23 July Street,2024-07-08,10,Active
+81,CUS-0081,Al Ahram Smart Devices 5,E-commerce Retailer,purchasing.0081@al.ahram.smart.devices.5.eg,01152582117,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-09,5,Active
+82,CUS-0082,Al Yasmeen Electronics Hub 5,E-commerce Retailer,purchasing.0082@al.yasmeen.electronics.hub.5.eg,01252590036,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-08-04,7.5,Active
+83,CUS-0083,Al Safwa Business Solutions 5,Retail Chain,purchasing.0083@al.safwa.business.solutions.5.eg,01552597955,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-13,2.5,Active
+84,CUS-0084,El Mostaqbal Digital Market 5,Corporate Customer,purchasing.0084@el.mostaqbal.digital.market.5.eg,01052605874,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-04,0,Active
+85,CUS-0085,El Shorouk Computer Center 5,Reseller,purchasing.0085@el.shorouk.computer.center.5.eg,01152613793,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-09,5,Active
+86,CUS-0086,El Hoda Modern Technology 5,Retail Chain,purchasing.0086@el.hoda.modern.technology.5.eg,01252621712,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-12,7.5,Active
+87,CUS-0087,Al Rowad Electronics Trading 5,Retail Chain,purchasing.0087@al.rowad.electronics.trading.5.eg,01552629631,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-24,2.5,Active
+88,CUS-0088,Al Madina Technology Distribution 5,Retail Chain,purchasing.0088@al.madina.technology.distribution.5.eg,01052637550,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-26,5,Active
+89,CUS-0089,Nile Device Retail 5,Distributor,purchasing.0089@nile.device.retail.5.eg,01152645469,Egypt,Damietta,New Damietta -  Central District,2024-07-24,7.5,Active
+90,CUS-0090,Al Watania Mobile Stores 5,Reseller,purchasing.0090@al.watania.mobile.stores.5.eg,01252653388,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-28,2.5,Active
+91,CUS-0091,Al Basha Smart Devices 5,Retail Chain,purchasing.0091@al.basha.smart.devices.5.eg,01552661307,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-08-05,7.5,Active
+92,CUS-0092,Canal Electronics Hub 5,Retail Chain,purchasing.0092@canal.electronics.hub.5.eg,01052669226,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-14,7.5,Active
+93,CUS-0093,Al Fares Business Solutions 5,Retail Chain,purchasing.0093@al.fares.business.solutions.5.eg,01152677145,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-08,7.5,Active
+94,CUS-0094,El Tahrir Digital Market 5,E-commerce Retailer,purchasing.0094@el.tahrir.digital.market.5.eg,01252685064,Egypt,Suez,Ataqa Industrial Zone,2024-07-13,5,Active
+95,CUS-0095,Delta Computer Center 5,Reseller,purchasing.0095@delta.computer.center.5.eg,01552692983,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-13,5,Active
+96,CUS-0096,El Nasr Modern Technology 5,Reseller,purchasing.0096@el.nasr.modern.technology.5.eg,01052700902,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-01,2.5,Active
+97,CUS-0097,Al Forsan Electronics Trading 5,Reseller,purchasing.0097@al.forsan.electronics.trading.5.eg,01152708821,Egypt,North Sinai,Arish -  23 July Street,2024-07-10,5,Active
+98,CUS-0098,Misr Technology Distribution 5,Distributor,purchasing.0098@misr.technology.distribution.5.eg,01252716740,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-08-02,5,Active
+99,CUS-0099,Al Amal Device Retail 5,Distributor,purchasing.0099@al.amal.device.retail.5.eg,01552724659,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-05,12.5,Active
+100,CUS-0100,Al Noor Mobile Stores 5,Distributor,purchasing.0100@al.noor.mobile.stores.5.eg,01052732578,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-07-19,7.5,Active
+101,CUS-0101,Al Ahram Smart Devices 6,Retail Chain,purchasing.0101@al.ahram.smart.devices.6.eg,01152740497,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-04,5,Active
+102,CUS-0102,Al Yasmeen Electronics Hub 6,Retail Chain,purchasing.0102@al.yasmeen.electronics.hub.6.eg,01252748416,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-17,10,Active
+103,CUS-0103,Al Safwa Business Solutions 6,Reseller,purchasing.0103@al.safwa.business.solutions.6.eg,01552756335,Egypt,Giza,Dokki -  Tahrir Street,2024-07-11,5,Active
+104,CUS-0104,El Mostaqbal Digital Market 6,Reseller,purchasing.0104@el.mostaqbal.digital.market.6.eg,01052764254,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-08-08,5,Active
+105,CUS-0105,El Shorouk Computer Center 6,E-commerce Retailer,purchasing.0105@el.shorouk.computer.center.6.eg,01152772173,Egypt,Port Said,El Arab District -  23 July Street,2024-08-15,7.5,Active
+106,CUS-0106,El Hoda Modern Technology 6,Corporate Customer,purchasing.0106@el.hoda.modern.technology.6.eg,01252780092,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-07,2.5,Active
+107,CUS-0107,Al Rowad Electronics Trading 6,E-commerce Retailer,purchasing.0107@al.rowad.electronics.trading.6.eg,01552788011,Egypt,Qena,Qena City -  23 July Street,2024-07-07,5,Active
+108,CUS-0108,Al Madina Technology Distribution 6,Reseller,purchasing.0108@al.madina.technology.distribution.6.eg,01052795930,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-27,2.5,Active
+109,CUS-0109,Nile Device Retail 6,Retail Chain,purchasing.0109@nile.device.retail.6.eg,01152803849,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-12,5,Active
+110,CUS-0110,Al Watania Mobile Stores 6,Retail Chain,purchasing.0110@al.watania.mobile.stores.6.eg,01252811768,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-09,10,Active
+111,CUS-0111,Al Basha Smart Devices 6,Retail Chain,purchasing.0111@al.basha.smart.devices.6.eg,01552819687,Egypt,MINYA,Minya City -  Taha Hussein Street,2024-07-24,10,Active
+112,CUS-0112,Canal Electronics Hub 6,Reseller,purchasing.0112@canal.electronics.hub.6.eg,01052827606,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-04,0,Active
+113,CUS-0113,Al Fares Business Solutions 6,Regional Distributor,purchasing.0113@al.fares.business.solutions.6.eg,01152835525,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-06,12.5,Active
+114,CUS-0114,El Tahrir Digital Market 6,E-commerce Retailer,purchasing.0114@el.tahrir.digital.market.6.eg,01252843444,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-06,7.5,Active
+115,CUS-0115,  Delta Computer Center 6,Distributor,purchasing.0115@delta.computer.center.6.eg,01552851363,Egypt,Dakahlia,Mansoura -   El Gomhoria Street,2024-08-07,7.5,Active
+116,CUS-0116,El Nasr Modern Technology 6,Reseller,purchasing.0116@el.nasr.modern.technology.6.eg,01052859282,Egypt,Damietta,New Damietta -  Central District,2024-08-07,7.5,Active
+117,CUS-0117,Al Forsan Electronics Trading 6,Distributor,purchasing.0117@al.forsan.electronics.trading.6.eg,01152867201,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-05,7.5,Active
+118,CUS-0118,Misr Technology Distribution 6,E-commerce Retailer,purchasing.0118@misr.technology.distribution.6.eg,01252875120,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-09,7.5,Active
+119,CUS-0119,Al Amal Device Retail 6,Regional Distributor,purchasing.0119@al.amal.device.retail.6.eg,01552883039,Egypt,Cairo,New Cairo -  North 90th Street,2024-08-14,10,Active
+120,CUS-0120,Al Noor Mobile Stores 6,Retail Chain,purchasing.0120@al.noor.mobile.stores.6.eg,01052890958,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-07,7.5,Active
+121,CUS-0121,Al Ahram Smart Devices 7,Corporate Customer,purchasing.0121@al.ahram.smart.devices.7.eg,01152898877,Egypt,Suez,Ataqa Industrial Zone,2024-07-01,0,Active
+122,CUS-0122,Al Yasmeen Electronics Hub 7,Corporate Customer,purchasing.0122@al.yasmeen.electronics.hub.7.eg,01252906796,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-07,5,Active
+123,CUS-0123,  Al Safwa Business Solutions 7,Reseller,purchasing.0123@al.safwa.business.solutions.7.eg,01552914715,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-04,2.5,Active
+124,CUS-0124,El Mostaqbal Digital Market 7,E-commerce Retailer,purchasing.0124@el.mostaqbal.digital.market.7.eg,01052922634,Egypt,North Sinai,Arish -  23 July Street,2024-07-20,10,Active
+125,CUS-0125,El Shorouk Computer Center 7,Retail Chain,purchasing.0125@el.shorouk.computer.center.7.eg,01152930553,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-31,7.5,Active
+126,CUS-0126,El Hoda Modern Technology 7,Distributor,purchasing.0126@el.hoda.modern.technology.7.eg,01252938472,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-09,10,Active
+127,CUS-0127,Al Rowad Electronics Trading 7,Distributor,purchasing.0127@al.rowad.electronics.trading.7.eg,01552946391,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-07-17,7.5,Active
+128,CUS-0128,Al Madina Technology Distribution 7,Corporate Customer,purchasing.0128@al.madina.technology.distribution.7.eg,01052954310,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-11,2.5,Active
+129,CUS-0129,Nile Device Retail 7,Distributor,purchasing.0129@nile.device.retail.7.eg,01152962229,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-07,7.5,Active
+130,CUS-0130,Al Watania Mobile Stores 7,Distributor,purchasing.0130@al.watania.mobile.stores.7.eg,01252970148,Egypt,Giza,Dokki -  Tahrir Street,2024-08-01,7.5,Active
+131,CUS-0131,Al Basha Smart Devices 7,Distributor,purchasing.0131@al.basha.smart.devices.7.eg,01552978067,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-07-19,5,Active
+132,CUS-0132,Canal Electronics Hub 7,Retail Chain,purchasing.0132@canal.electronics.hub.7.eg,01052985986,Egypt,Port Said,El Arab District -  23 July Street,2024-07-03,5,Active
+133,CUS-0133,Al Fares Business Solutions 7,reseller,purchasing.0133@al.fares.business.solutions.7.eg,01152993905,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-02,2.5,Active
+134,CUS-0134,El Tahrir Digital Market 7,Regional Distributor,purchasing.0134@el.tahrir.digital.market.7.eg,01253001824,Egypt,Qena ,Qena City -  23 July Street,2024-07-01,10,Active
+135,CUS-0135,Delta Computer Center 7,Reseller,purchasing.0135@delta.computer.center.7.eg,01553009743,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-05,7.5,Active
+136,CUS-0136,El Nasr Modern Technology 7,Reseller,purchasing.0136@el.nasr.modern.technology.7.eg,01053017662,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-17,2.5,Active
+137,CUS-0137,Al Forsan Electronics Trading 7,Reseller,purchasing.0137@al.forsan.electronics.trading.7.eg,01153025581,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-08-13,0,Active
+138,CUS-0138,Misr Technology Distribution 7,E-commerce Retailer,purchasing.0138@misr.technology.distribution.7.eg,01253033500,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-14,7.5,Active
+139,CUS-0139,Al Amal Device Retail 7,Retail Chain,purchasing.0139@al.amal.device.retail.7.eg,01553041419,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-02,2.5,Active
+140,CUS-0140,Al Noor Mobile Stores 7,Reseller,purchasing.0140@al.noor.mobile.stores.7.eg,01053049338,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-01,2.5,Active
+141,CUS-0141,Al Ahram Smart Devices 8,E-commerce Retailer,purchasing.0141@al.ahram.smart.devices.8.eg,01153057257,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-04,5,Active
+142,CUS-0142,Al Yasmeen Electronics Hub 8,Distributor,purchasing.0142@al.yasmeen.electronics.hub.8.eg,01253065176,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-24,5,Active
+143,CUS-0143,Al Safwa Business Solutions 8,Reseller,purchasing.0143@al.safwa.business.solutions.8.eg,01553073095,Egypt,Damietta,New Damietta -  Central District,2024-07-01,5,Active
+144,CUS-0144,El Mostaqbal Digital Market 8,Reseller,purchasing.0144@el.mostaqbal.digital.market.8.eg,01053081014,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-09,2.5,Active
+145,CUS-0145,El Shorouk Computer Center 8,Reseller,purchasing.0145@el.shorouk.computer.center.8.eg,01153088933,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-02,2.5,Active
+146,CUS-0146,El Hoda Modern Technology 8,Retail Chain,purchasing.0146@el.hoda.modern.technology.8.eg,01253096852,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-02,5,Active
+147,CUS-0147,Al Rowad Electronics Trading 8,Corporate Customer,purchasing.0147@al.rowad.electronics.trading.8.eg,01553104771,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-19,0,Active
+148,CUS-0148,Al Madina Technology Distribution 8,Reseller,,01053112690,Egypt,Suez,Ataqa Industrial Zone,2024-07-07,5,Active
+149,CUS-0149,Nile Device Retail 8,Retail Chain,purchasing.0149@nile.device.retail.8.eg,01153120609,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-03,7.5,Active
+150,CUS-0150,Al Watania Mobile Stores 8,Retail Chain,,01253128528,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-23,7.5,Active
+151,CUS-0151,Al Basha Smart Devices 8,Retail Chain,purchasing.0151@al.basha.smart.devices.8.eg,01553136447,Egypt,North Sinai,Arish -  23 July Street,2024-07-12,7.5,Active
+152,CUS-0152,Canal Electronics Hub 8,Retail Chain,purchasing.0152@canal.electronics.hub.8.eg,01053144366,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-02,7.5,Active
+153,CUS-0153,Al Fares Business Solutions 8,Regional Distributor,purchasing.0153@al.fares.business.solutions.8.eg,01153152285,Egypt,GHARBIA,Tanta -  El Bahr Street,2024-07-18,7.5,Active
+154,CUS-0154,El Tahrir Digital Market 8,Regional Distributor,purchasing.0154@el.tahrir.digital.market.8.eg,01253160204,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-07-13,12.5,Active
+155,CUS-0155,Delta Computer Center 8,Reseller,purchasing.0155@delta.computer.center.8.eg,01553168123,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-11,2.5,Active
+156,CUS-0156,El Nasr Modern Technology 8,Distributor,purchasing.0156@el.nasr.modern.technology.8.eg,01053176042,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-22,5,Active
+157,CUS-0157,Al Forsan Electronics Trading 8,Retail Chain,purchasing.0157@al.forsan.electronics.trading.8.eg,01153183961,Egypt,Giza,Dokki -  Tahrir Street,2024-07-11,7.5,Active
+158,CUS-0158,Misr Technology Distribution 8,Retail Chain,purchasing.0158@misr.technology.distribution.8.eg,01253191880,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-08-15,2.5,Active
+159,CUS-0159,Al Amal Device Retail 8,Distributor,purchasing.0159@al.amal.device.retail.8.eg,01553199799,Egypt,Port Said,El Arab District -  23 July Street,2024-07-27,12.5,Active
+160,CUS-0160,Al Noor Mobile Stores 8,Retail Chain,purchasing.0160@al.noor.mobile.stores.8.eg,01053207718,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-13,7.5,Active
+161,CUS-0161,Al Ahram Smart Devices 9,Retail Chain,purchasing.0161@al.ahram.smart.devices.9.eg,01153215637,Egypt,Qena,Qena City -  23 July Street,2024-07-08,7.5,Active
+162,CUS-0162,Al Yasmeen Electronics Hub 9,E-commerce Retailer,purchasing.0162@al.yasmeen.electronics.hub.9.eg,01253223556,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-08-04,5,Active
+163,CUS-0163,Al Safwa Business Solutions 9,E-commerce Retailer, PURCHASING.0163@AL.SAFWA.BUSINESS.SOLUTIONS.9.EG ,01553231475,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-28,2.5,Active
+164,CUS-0164,El Mostaqbal Digital Market 9  ,Regional Distributor,purchasing.0164@el.mostaqbal.digital.market.9.eg,01053239394,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-07,7.5,Active
+165,CUS-0165,El Shorouk Computer Center 9,Distributor,purchasing.0165@el.shorouk.computer.center.9.eg,01153247313,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-19,7.5,Active
+166,CUS-0166,El Hoda Modern Technology 9,Distributor,purchasing.0166@el.hoda.modern.technology.9.eg,01253255232,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-20,7.5,Active
+167,CUS-0167,Al Rowad Electronics Trading 9,Corporate Customer,purchasing.0167@al.rowad.electronics.trading.9.eg,01553263151,Egypt,Red Sea ,Hurghada -  El Nasr Road,2024-07-02,2.5,Active
+168,CUS-0168,Al Madina Technology Distribution 9,Retail Chain,purchasing.0168@al.madina.technology.distribution.9.eg,01053271070,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-10,2.5,Active
+169,CUS-0169,Nile Device Retail 9,Regional Distributor,purchasing.0169@nile.device.retail.9.eg,01153278989,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-14,7.5,Active
+170,CUS-0170,Al Watania Mobile Stores 9,Retail Chain,purchasing.0170@al.watania.mobile.stores.9.eg,01253286908,Egypt,Damietta,New Damietta -  Central District,2024-07-05,7.5,Active
+171,CUS-0171,Al Basha Smart Devices 9,Corporate Customer,purchasing.0171@al.basha.smart.devices.9.eg,01553294827,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-06,2.5,Active
+172,CUS-0172,Canal Electronics Hub 9,Reseller,purchasing.0172@canal.electronics.hub.9.eg,01053302746,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-07,5,Active
+173,CUS-0173,Al Fares Business Solutions 9,Reseller,purchasing.0173@al.fares.business.solutions.9.eg,01153310665,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-27,5,Active
+174,CUS-0174,El Tahrir Digital Market 9,Reseller,purchasing.0174@el.tahrir.digital.market.9.eg,01253318584,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-27,0,Active
+175,CUS-0175,Delta Computer Center 9,Regional Distributor,,01553326503,Egypt,Suez,Ataqa Industrial Zone,2024-07-06,10,Active
+176,CUS-0176,El Nasr Modern Technology 9,E-commerce Retailer,purchasing.0176@el.nasr.modern.technology.9.eg,01053334422,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-02,5,Active
+177,CUS-0177,Al Forsan Electronics Trading 9,Distributor,purchasing.0177@al.forsan.electronics.trading.9.eg,01153342341,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-17,5,Active
+178,CUS-0178,Misr Technology Distribution 9,Reseller,purchasing.0178@misr.technology.distribution.9.eg,01253350260,Egypt,North Sinai,Arish -  23 July Street,2024-07-02,0,Active
+179,CUS-0179,Al Amal Device Retail 9,Reseller,purchasing.0179@al.amal.device.retail.9.eg,01553358179,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-03,7.5,Active
+180,CUS-0180,Al Noor Mobile Stores 9,Distributor,purchasing.0180@al.noor.mobile.stores.9.eg,01053366098,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-07,7.5,Active
+181,CUS-0181,Al Ahram Smart Devices 10,Retail Chain,purchasing.0181@al.ahram.smart.devices.10.eg,01153374017,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-07-11,5,Active
+182,CUS-0182,Al Yasmeen Electronics Hub 10,Distributor,purchasing.0182@al.yasmeen.electronics.hub.10.eg,01253381936,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-01,7.5,Active
+183,CUS-0183,Al Safwa Business Solutions 10,Regional Distributor,purchasing.0183@al.safwa.business.solutions.10.eg,01553389855,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-17,12.5,Active
+184,CUS-0184,El Mostaqbal Digital Market 10,Reseller,purchasing.0184@el.mostaqbal.digital.market.10.eg,01053397774,Egypt,Giza,Dokki -  Tahrir Street,2024-07-17,5,Active
+185,CUS-0185,El Shorouk Computer Center 10,Distributor,purchasing.0185@el.shorouk.computer.center.10.eg,01153405693,Egypt,ALEXANDRIA,Borg El Arab -  Third Industrial Zone,2024-07-08,10,Active
+186,CUS-0186,El Hoda Modern Technology 10,Distributor,purchasing.0186@el.hoda.modern.technology.10.eg,01253413612,Egypt,Port Said,El Arab District -  23 July Street,2024-07-13,5,Active
+187,CUS-0187,Al Rowad Electronics Trading 10,Retail Chain,purchasing.0187@al.rowad.electronics.trading.10.eg,01553421531,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-15,5,Active
+188,CUS-0188,Al Madina Technology Distribution 10,Reseller,purchasing.0188@al.madina.technology.distribution.10.eg,01053429450,Egypt,Qena,Qena City -  23 July Street,2024-07-12,2.5,Active
+189,CUS-0189,Nile Device Retail 10,Regional Distributor,purchasing.0189@nile.device.retail.10.eg,01153437369,Egypt,cairo,Nasr City -  Mostafa El Nahas Street,2024-08-13,7.5,Active
+190,CUS-0190,Al Watania Mobile Stores 10,Regional Distributor,purchasing.0190@al.watania.mobile.stores.10.eg,01253445288,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-07,5,Active
+191,CUS-0191,Al Basha Smart Devices 10,Reseller,purchasing.0191@al.basha.smart.devices.10.eg,01553453207,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-31,5,Active
+192,CUS-0192,Canal Electronics Hub 10,Retail Chain,Purchasing.0192@canal.electronics.hub.10.eg,01053461126,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-12,5,Active
+193,CUS-0193,Al Fares Business Solutions 10,Regional Distributor,purchasing.0193@al.fares.business.solutions.10.eg,01153469045,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-02,12.5,Active
+194,CUS-0194,El Tahrir Digital Market 10,Distributor, PURCHASING.0194@EL.TAHRIR.DIGITAL.MARKET.10.EG ,01253476964,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-25,7.5,Active
+195,CUS-0195,Delta Computer Center 10,E-commerce Retailer,purchasing.0195@delta.computer.center.10.eg,01553484883,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-25,7.5,Active
+196,CUS-0196,El Nasr Modern Technology 10,Corporate Customer,purchasing.0196@el.nasr.modern.technology.10.eg,01053492802,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-01,2.5,Active
+197,CUS-0197,Al Forsan Electronics Trading 10,Distributor,purchasing.0197@al.forsan.electronics.trading.10.eg,01153500721,Egypt,Damietta,New Damietta -  Central District,2024-07-22,7.5,Active
+198,CUS-0198,Misr Technology Distribution 10,Retail Chain,purchasing.0198@misr.technology.distribution.10.eg,01253508640,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-09,2.5,Active
+199,CUS-0199,Al Amal Device Retail 10,Retail Chain,purchasing.0199@al.amal.device.retail.10.eg,01553516559,Egypt,Luxor ,Luxor City -  Khaled Ibn El Walid Street,2024-07-01,5,Active
+200,CUS-0200,Al Noor Mobile Stores 10,Retail Chain,purchasing.0200@al.noor.mobile.stores.10.eg,01053524478,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-07,7.5,Active
+201,CUS-0201,Al Ahram Smart Devices 11,Retail Chain,purchasing.0201@al.ahram.smart.devices.11.eg,01153532397,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-06,5,Active
+202,CUS-0202,Al Yasmeen Electronics Hub 11,Reseller,purchasing.0202@al.yasmeen.electronics.hub.11.eg,01253540316,Egypt,Suez,Ataqa Industrial Zone,2024-07-14,2.5,Active
+203,CUS-0203,Al Safwa Business Solutions 11,Retail Chain,purchasing.0203@al.safwa.business.solutions.11.eg,01553548235,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-18,2.5,Active
+204,CUS-0204,El Mostaqbal Digital Market 11,regional distributor,purchasing.0204@el.mostaqbal.digital.market.11.eg,01053556154,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-01,7.5,Active
+205,CUS-0205,El Shorouk Computer Center 11,Retail Chain,purchasing.0205@el.shorouk.computer.center.11.eg,01153564073,Egypt,North Sinai,Arish -  23 July Street,2024-07-09,7.5,Active
+206,CUS-0206,El Hoda Modern Technology 11,Regional Distributor,purchasing.0206@el.hoda.modern.technology.11.eg,01253571992,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-06,7.5,Active
+207,CUS-0207,Al Rowad Electronics Trading 11,E-commerce Retailer,purchasing.0207@al.rowad.electronics.trading.11.eg,01553579911,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-29,2.5,Active
+208,CUS-0208,Al Madina Technology Distribution 11,E-commerce Retailer,purchasing.0208@al.madina.technology.distribution.11.eg,01053587830,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-07-23,5,Active
+209,CUS-0209,Nile Device Retail 11,Reseller,purchasing.0209@nile.device.retail.11.eg,01153595749,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-09,2.5,Active
+210,CUS-0210,Al Watania Mobile Stores 11,Retail Chain,Purchasing.0210@al.watania.mobile.stores.11.eg,01253603668,Egypt,aswan,Aswan City -  Corniche El Nile,2024-07-04,2.5,Active
+211,CUS-0211,Al Basha Smart Devices 11,Retail Chain,purchasing.0211@al.basha.smart.devices.11.eg,01553611587,Egypt,Giza,Dokki -  Tahrir Street,2024-07-08,5,Active
+212,CUS-0212,Canal Electronics Hub 11,Distributor,purchasing.0212@canal.electronics.hub.11.eg,01053619506,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-07-09,10,Active
+213,CUS-0213,Al Fares Business Solutions 11,Reseller,purchasing.0213@al.fares.business.solutions.11.eg,01153627425,Egypt,Port Said,El Arab District -  23 July Street,2024-07-09,2.5,Active
+214,CUS-0214,El Tahrir Digital Market 11,Corporate Customer,purchasing.0214@el.tahrir.digital.market.11.eg,01253635344,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-03,0,Active
+215,CUS-0215,Delta Computer Center 11,Reseller,purchasing.0215@delta.computer.center.11.eg,01553643263,Egypt,Qena,Qena City -  23 July Street,2024-07-03,5,Active
+216,CUS-0216,  El Nasr Modern Technology 11,DISTRIBUTOR,purchasing.0216@el.nasr.modern.technology.11.eg,01053651182,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-22,10,Active
+217,CUS-0217,Al Forsan Electronics Trading 11,Retail Chain,purchasing.0217@al.forsan.electronics.trading.11.eg,01153659101,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-09,10,Active
+218,CUS-0218,Misr Technology Distribution 11,reseller,purchasing.0218@misr.technology.distribution.11.eg,01253667020,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-12,0,Active
+219,CUS-0219,Al Amal Device Retail 11,Distributor,purchasing.0219@al.amal.device.retail.11.eg,01553674939,Egypt,Minya,Minya City -  Taha Hussein Street,2024-09-10,7.5,Active
+220,CUS-0220,Al Noor Mobile Stores 11,Distributor,purchasing.0220@al.noor.mobile.stores.11.eg,01053682858,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-07-20,5,Active
+221,CUS-0221,Al Ahram Smart Devices 12,Corporate Customer,purchasing.0221@al.ahram.smart.devices.12.eg,01153690777,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-03,0,Active
+222,CUS-0222,Al Yasmeen Electronics Hub 12,E-commerce Retailer,Purchasing.0222@al.yasmeen.electronics.hub.12.eg,01253698696,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-16,7.5,Active
+223,CUS-0223,Al Safwa Business Solutions 12,Retail Chain,purchasing.0223@al.safwa.business.solutions.12.eg,01553706615,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-08-03,7.5,Active
+224,CUS-0224,El Mostaqbal Digital Market 12,Reseller,purchasing.0224@el.mostaqbal.digital.market.12.eg,01053714534,Egypt,Damietta,New Damietta -  Central District,2024-08-02,5,Active
+225,CUS-0225,El Shorouk Computer Center 12,E-commerce Retailer,purchasing.0225@el.shorouk.computer.center.12.eg,01153722453,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-11,7.5,Active
+226,CUS-0226,El Hoda Modern Technology 12  ,E-commerce Retailer,purchasing.0226@el.hoda.modern.technology.12.eg,01253730372,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-11,5,Active
+227,CUS-0227,Al Rowad Electronics Trading 12,E-commerce Retailer,purchasing.0227@al.rowad.electronics.trading.12.eg,01553738291,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-04,5,Active
+228,CUS-0228,Al Madina Technology Distribution 12,Retail Chain,purchasing.0228@al.madina.technology.distribution.12.eg,01053746210,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-20,5,Active
+229,CUS-0229,Nile Device Retail 12,Reseller,purchasing.0229@nile.device.retail.12.eg,01153754129,Egypt,Suez,Ataqa Industrial Zone,2024-07-26,5,Active
+230,CUS-0230,Al Watania Mobile Stores 12,Reseller,purchasing.0230@al.watania.mobile.stores.12.eg,01253762048,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-01,2.5,Active
+231,CUS-0231,Al Basha Smart Devices 12,Distributor,purchasing.0231@al.basha.smart.devices.12.eg,01553769967,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-22,7.5,Active
+232,CUS-0232,Canal Electronics Hub 12,Distributor,purchasing.0232@canal.electronics.hub.12.eg,01053777886,Egypt,North Sinai,Arish -  23 July Street,2024-07-20,7.5,Active
+233,CUS-0233,Al Fares Business Solutions 12,Regional Distributor,purchasing.0233@al.fares.business.solutions.12.eg,01153785805,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-08-05,10,Active
+234,CUS-0234,El Tahrir Digital Market 12,E-commerce Retailer,purchasing.0234@el.tahrir.digital.market.12.eg,01253793724,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-05,2.5,Active
+235,CUS-0235,Delta Computer Center 12,Reseller,purchasing.0235@delta.computer.center.12.eg,01553801643,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-08-19,2.5,Active
+236,CUS-0236,El Nasr Modern Technology 12,Reseller,purchasing.0236@el.nasr.modern.technology.12.eg,01053809562,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-08,7.5,Active
+237,CUS-0237,Al Forsan Electronics Trading 12,Reseller,purchasing.0237@al.forsan.electronics.trading.12.eg,01153817481,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-06,0,Active
+238,CUS-0238,Misr Technology Distribution 12,E-commerce Retailer,purchasing.0238@misr.technology.distribution.12.eg,01253825400,Egypt,Giza,Dokki -  Tahrir Street,2024-07-10,7.5,Active
+239,CUS-0239,Al Amal Device Retail 12,Distributor,purchasing.0239@al.amal.device.retail.12.eg,01553833319,Egypt,Alexandria ,Borg El Arab -  Third Industrial Zone,2024-07-01,10,Active
+240,CUS-0240,Al Noor Mobile Stores 12,Retail Chain, PURCHASING.0240@AL.NOOR.MOBILE.STORES.12.EG ,01053841238,Egypt,Port Said,El Arab District -  23 July Street,2024-07-14,10,Active
+241,CUS-0241,Al Ahram Smart Devices 13,Retail Chain,purchasing.0241@al.ahram.smart.devices.13.eg,01153849157,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-07-06,7.5,Active
+242,CUS-0242,Al Yasmeen Electronics Hub 13,Corporate Customer, PURCHASING.0242@AL.YASMEEN.ELECTRONICS.HUB.13.EG ,01253857076,Egypt,Qena,Qena City -  23 July Street,2024-07-24,5,Active
+243,CUS-0243,Al Safwa Business Solutions 13,Distributor,purchasing.0243@al.safwa.business.solutions.13.eg,01553864995,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-18,10,Active
+244,CUS-0244,El Mostaqbal Digital Market 13,Distributor,purchasing.0244@el.mostaqbal.digital.market.13.eg,01053872914,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-05,10,Active
+245,CUS-0245,El Shorouk Computer Center 13,E-commerce Retailer,purchasing.0245@el.shorouk.computer.center.13.eg,01153880833,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-24,5,Active
+246,CUS-0246,El Hoda Modern Technology 13,Reseller,purchasing.0246@el.hoda.modern.technology.13.eg,01253888752,Egypt,Minya,Minya City -   Taha Hussein Street,2024-08-19,2.5,Active
+247,CUS-0247,Al Rowad Electronics Trading 13,E-commerce Retailer,purchasing.0247@al.rowad.electronics.trading.13.eg,01553896671,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-08-02,5,Active
+248,CUS-0248,Al Madina Technology Distribution 13,Corporate Customer,purchasing.0248@al.madina.technology.distribution.13.eg,01053904590,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-02,2.5,Active
+249,CUS-0249,Nile Device Retail 13,Distributor,purchasing.0249@nile.device.retail.13.eg,01153912509,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-09,10,Active
+250,CUS-0250,Al Watania Mobile Stores 13,Regional Distributor,purchasing.0250@al.watania.mobile.stores.13.eg,01253920428,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-18,7.5,Active
+251,CUS-0251,Al Basha Smart Devices 13,Retail Chain,purchasing.0251@al.basha.smart.devices.13.eg,01553928347,Egypt,Damietta,New Damietta -  Central District,2024-07-18,5,Active
+252,CUS-0252,Canal Electronics Hub 13  ,REGIONAL DISTRIBUTOR,purchasing.0252@canal.electronics.hub.13.eg,01053936266,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-07-14,10,Active
+253,CUS-0253,Al Fares Business Solutions 13,E-commerce Retailer,purchasing.0253@al.fares.business.solutions.13.eg,01153944185,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-16,7.5,Active
+254,CUS-0254,El Tahrir Digital Market 13,Distributor,purchasing.0254@el.tahrir.digital.market.13.eg,01253952104,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-15,5,Active
+255,CUS-0255,Delta Computer Center 13,Reseller,purchasing.0255@delta.computer.center.13.eg,01553960023,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-09,7.5,Active
+256,CUS-0256,El Nasr Modern Technology 13,regional distributor,purchasing.0256@el.nasr.modern.technology.13.eg,01053967942,Egypt,Suez,Ataqa Industrial Zone,2024-07-03,10,Active
+257,CUS-0257,Al Forsan Electronics Trading 13,Reseller,purchasing.0257@al.forsan.electronics.trading.13.eg,01153975861,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-10,0,Active
+258,CUS-0258,  Misr Technology Distribution 13,Reseller,purchasing.0258@misr.technology.distribution.13.eg,01253983780,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-01,0,Active
+259,CUS-0259,Al Amal Device Retail 13,Retail Chain,purchasing.0259@al.amal.device.retail.13.eg,01553991699,Egypt,North Sinai,Arish -  23 July Street,2024-08-04,7.5,Active
+260,CUS-0260,Al Noor Mobile Stores 13,REGIONAL DISTRIBUTOR,purchasing.0260@al.noor.mobile.stores.13.eg,01053999618,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-14,5,Active
+261,CUS-0261,Al Ahram Smart Devices 14,Reseller,purchasing.0261@al.ahram.smart.devices.14.eg,01154007537,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-14,7.5,Active
+262,CUS-0262,Al Yasmeen Electronics Hub 14,E-commerce Retailer,purchasing.0262@al.yasmeen.electronics.hub.14.eg,01254015456,Egypt,assiut,Assiut City -  El Hilaly Street,2024-07-15,10,Active
+263,CUS-0263,Al Safwa Business Solutions 14  ,Distributor,purchasing.0263@al.safwa.business.solutions.14.eg,01554023375,Egypt,Monufia,Shebin El Kom -   Gamal Abdel Nasser Street,2024-08-12,10,Active
+264,CUS-0264,El Mostaqbal Digital Market 14,Retail Chain,purchasing.0264@el.mostaqbal.digital.market.14.eg,01054031294,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-15,2.5,Active
+265,CUS-0265,El Shorouk Computer Center 14,Regional Distributor,purchasing.0265@el.shorouk.computer.center.14.eg,01154039213,Egypt,Giza,Dokki -  Tahrir Street,2024-07-01,12.5,Active
+266,CUS-0266,El Hoda Modern Technology 14,Regional Distributor,purchasing.0266@el.hoda.modern.technology.14.eg,01254047132,Egypt,Alexandria,Borg El Arab -   Third Industrial Zone,2024-08-06,10,Active
+267,CUS-0267,Al Rowad Electronics Trading 14,Distributor,purchasing.0267@al.rowad.electronics.trading.14.eg,01554055051,Egypt,Port Said,El Arab District -  23 July Street,2024-07-11,12.5,Active
+268,CUS-0268,Al Madina Technology Distribution 14,Distributor,purchasing.0268@al.madina.technology.distribution.14.eg,01054062970,Egypt,Beheira,Damanhour -   El Gomhoria Street,2024-07-19,7.5,Active
+269,CUS-0269,Nile Device Retail 14,CORPORATE CUSTOMER,purchasing.0269@nile.device.retail.14.eg,01154070889,Egypt,Qena,Qena City -  23 July Street,2024-07-18,2.5,Active
+270,CUS-0270,Al Watania Mobile Stores 14,Retail Chain,purchasing.0270@al.watania.mobile.stores.14.eg,01254078808,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-07-02,7.5,Active
+271,CUS-0271,Al Basha Smart Devices 14,Retail Chain,purchasing.0271@al.basha.smart.devices.14.eg,01554086727,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-13,7.5,Active
+272,CUS-0272,Canal Electronics Hub 14,E-commerce Retailer,purchasing.0272@canal.electronics.hub.14.eg,01054094646,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-07-01,7.5,Active
+273,CUS-0273,Al Fares Business Solutions 14,Reseller,purchasing.0273@al.fares.business.solutions.14.eg,01154102565,Egypt,Minya,Minya City -  Taha Hussein Street,2024-07-05,2.5,Active
+274,CUS-0274,El Tahrir Digital Market 14,Distributor,purchasing.0274@el.tahrir.digital.market.14.eg,01254110484,Egypt,FAYOUM,Fayoum City -  El Bahr Street,2024-07-17,10,Active
+275,CUS-0275,Delta Computer Center 14,Reseller,purchasing.0275@delta.computer.center.14.eg,01554118403,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-07-05,7.5,Active
+276,CUS-0276,El Nasr Modern Technology 14,Reseller,,01054126322,Egypt,Giza,6th of October City -  Industrial Zone,2024-07-14,0,Active
+277,CUS-0277,Al Forsan Electronics Trading 14,Retail Chain,purchasing.0277@al.forsan.electronics.trading.14.eg,01154134241,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-07-01,7.5,Active
+278,CUS-0278,Misr Technology Distribution 14,E-commerce Retailer,purchasing.0278@misr.technology.distribution.14.eg,01254142160,Egypt,Damietta,New Damietta -  Central District,2024-07-06,7.5,Active
+279,CUS-0279,Al Amal Device Retail 14,Corporate Customer,purchasing.0279@al.amal.device.retail.14.eg,01554150079,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-08-04,5,Active
+280,CUS-0280,Al Noor Mobile Stores 14,Regional Distributor,purchasing.0280@al.noor.mobile.stores.14.eg,01054157998,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-08,7.5,Active
+281,CUS-0281,  Al Ahram Smart Devices 15,E-commerce Retailer,purchasing.0281@al.ahram.smart.devices.15.eg,01154165917,Egypt,Cairo,New Cairo -  North 90th Street,2024-07-13,7.5,Active
+282,CUS-0282,Al Yasmeen Electronics Hub 15,E-commerce Retailer,purchasing.0282@al.yasmeen.electronics.hub.15.eg,01254173836,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2024-07-19,2.5,Active
+283,CUS-0283,Al Safwa Business Solutions 15,Reseller,purchasing.0283@al.safwa.business.solutions.15.eg,01554181755,Egypt,Suez,Ataqa Industrial Zone,2024-08-04,5,Active
+284,CUS-0284,El Mostaqbal Digital Market 15,RETAIL CHAIN,purchasing.0284@el.mostaqbal.digital.market.15.eg,01054189674,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-18,7.5,Active
+285,CUS-0285,El Shorouk Computer Center 15  ,Corporate Customer,purchasing.0285@el.shorouk.computer.center.15.eg,01154197593,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-07-21,2.5,Active
+286,CUS-0286,El Hoda Modern Technology 15,Retail Chain,,01254205512,Egypt,North Sinai,Arish -  23 July Street,2024-07-19,2.5,Active
+287,CUS-0287,Al Rowad Electronics Trading 15,Distributor,purchasing.0287@al.rowad.electronics.trading.15.eg,01554213431,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-07-22,10,Active
+288,CUS-0288,Al Madina Technology Distribution 15,E-commerce Retailer,purchasing.0288@al.madina.technology.distribution.15.eg,01054221350,Egypt,Gharbia,Tanta -  El Bahr Street,2024-07-17,2.5,Active
+289,CUS-0289,Nile Device Retail 15,Retail Chain,purchasing.0289@nile.device.retail.15.eg,01154229269,Egypt,Assiut,Assiut City -   El Hilaly Street,2024-07-12,5,Active
+290,CUS-0290,Al Watania Mobile Stores 15,E-commerce Retailer,purchasing.0290@al.watania.mobile.stores.15.eg,01254237188,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-11,7.5,Active
+291,CUS-0291,Al Basha Smart Devices 15,Retail Chain,purchasing.0291@al.basha.smart.devices.15.eg,01554245107,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-10,2.5,Active
+292,CUS-0292,Canal Electronics Hub 15,Distributor,purchasing.0292@canal.electronics.hub.15.eg,01054253026,Egypt,Giza,Dokki -  Tahrir Street,2024-07-23,5,Active
+293,CUS-0293,Al Fares Business Solutions 15,Retail Chain,purchasing.0293@al.fares.business.solutions.15.eg,01154260945,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-07-07,5,Active
+294,CUS-0294,El Tahrir Digital Market 15  ,Corporate Customer,purchasing.0294@el.tahrir.digital.market.15.eg,01254268864,Egypt,Port Said,El Arab District -  23 July Street,2024-07-28,0,Active
+295,CUS-0295,Delta Computer Center 15,E-commerce Retailer,purchasing.0295@delta.computer.center.15.eg,01554276783,Egypt,Beheira,Damanhour -   El Gomhoria Street,2024-07-04,7.5,Active
+296,CUS-0296,El Nasr Modern Technology 15,E-commerce Retailer,purchasing.0296@el.nasr.modern.technology.15.eg,01054284702,Egypt,Qena,Qena City -  23 July Street,2024-07-17,10,Active
+297,CUS-0297,Al Forsan Electronics Trading 15,Retail Chain,purchasing.0297@al.forsan.electronics.trading.15.eg,01154292621,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-08-09,5,Active
+298,CUS-0298,Misr Technology Distribution 15,Retail Chain,purchasing.0298@misr.technology.distribution.15.eg,01254300540,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-07-04,5,Active
+299,CUS-0299,Al Amal Device Retail 15,Distributor,purchasing.0299@al.amal.device.retail.15.eg,01554308459,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-09-26,7.5,Inactive
+300,CUS-0300,Al Noor Mobile Stores 15,regional distributor,purchasing.0300@al.noor.mobile.stores.15.eg,01054316378,Egypt,Minya,Minya City -  Taha Hussein Street,2024-12-27,5,Inactive
+301,CUS-0301,  Al Ahram Smart Devices 16,Reseller,purchasing.0301@al.ahram.smart.devices.16.eg,01154324297,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-11-22,2.5,Inactive
+302,CUS-0302,Al Yasmeen Electronics Hub 16,Distributor,purchasing.0302@al.yasmeen.electronics.hub.16.eg,01254332216,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-12-08,5,Inactive
+303,CUS-0303,Al Safwa Business Solutions 16,E-commerce Retailer,Purchasing.0303@al.safwa.business.solutions.16.eg,01554340135,Egypt,Giza,6th of October City -  Industrial Zone,2024-10-18,5,Inactive
+304,CUS-0304,El Mostaqbal Digital Market 16,Corporate Customer,purchasing.0304@el.mostaqbal.digital.market.16.eg,01054348054,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-11-16,5,Inactive
+305,CUS-0305,El Shorouk Computer Center 16,Retail Chain,purchasing.0305@el.shorouk.computer.center.16.eg,01154355973,Egypt,Damietta,New Damietta -  Central District,2024-07-29,7.5,Inactive
+306,CUS-0306,El Hoda Modern Technology 16,E-commerce Retailer,purchasing.0306@el.hoda.modern.technology.16.eg,01254363892,Egypt,Kafr El Sheikh,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-12-29,2.5,Inactive
+307,CUS-0307,Al Rowad Electronics Trading 16,Regional Distributor,purchasing.0307@al.rowad.electronics.trading.16.eg,01554371811,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-07-17,5,Inactive
+308,CUS-0308,Al Madina Technology Distribution 16  ,e-commerce retailer,purchasing.0308@al.madina.technology.distribution.16.eg,01054379730,Egypt,Cairo,New Cairo -  North 90th Street,2024-09-02,7.5,Inactive
+309,CUS-0309,Nile Device Retail 16,Retail Chain,purchasing.0309@nile.device.retail.16.eg,01154387649,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2025-01-21,7.5,Inactive
+310,CUS-0310,Al Watania Mobile Stores 16,Regional Distributor,purchasing.0310@al.watania.mobile.stores.16.eg,01254395568,Egypt,Suez,Ataqa Industrial Zone,2024-07-08,5,Inactive
+311,CUS-0311,Al Basha Smart Devices 16,Regional Distributor,purchasing.0311@al.basha.smart.devices.16.eg,01554403487,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-11-05,10,Inactive
+312,CUS-0312,Canal Electronics Hub 16,Reseller,purchasing.0312@canal.electronics.hub.16.eg,01054411406,Egypt,Sohag,Sohag City -  El Gomhoria Street,2025-01-31,0,Inactive
+313,CUS-0313,Al Fares Business Solutions 16,Corporate Customer,purchasing.0313@al.fares.business.solutions.16.eg,01154419325,Egypt,North Sinai,Arish -  23 July Street,2025-01-18,2.5,Inactive
+314,CUS-0314,El Tahrir Digital Market 16,Retail Chain,purchasing.0314@el.tahrir.digital.market.16.eg,01254427244,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2025-01-22,7.5,Inactive
+315,CUS-0315,Delta Computer Center 16,Reseller,purchasing.0315@delta.computer.center.16.eg,01554435163,Egypt,Gharbia,Tanta -  El Bahr Street,2025-01-06,5,Inactive
+316,CUS-0316,El Nasr Modern Technology 16,Regional Distributor,purchasing.0316@el.nasr.modern.technology.16.eg,01054443082,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-11-25,5,Inactive
+317,CUS-0317,Al Forsan Electronics Trading 16,Retail Chain,purchasing.0317@al.forsan.electronics.trading.16.eg,01154451001,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-08-07,7.5,Inactive
+318,CUS-0318,Misr Technology Distribution 16,Distributor,purchasing.0318@misr.technology.distribution.16.eg,01254458920,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-12-23,10,Inactive
+319,CUS-0319,  Al Amal Device Retail 16,Retail Chain,purchasing.0319@al.amal.device.retail.16.eg,01554466839,Egypt,Giza,Dokki -  Tahrir Street,2024-11-12,5,Inactive
+320,CUS-0320,Al Noor Mobile Stores 16,E-commerce Retailer,purchasing.0320@al.noor.mobile.stores.16.eg,01054474758,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-11-29,5,Inactive
+321,CUS-0321,Al Ahram Smart Devices 17,Corporate Customer,purchasing.0321@al.ahram.smart.devices.17.eg,01154482677,Egypt,Port Said,El Arab District -  23 July Street,2024-11-09,2.5,Inactive
+322,CUS-0322,Al Yasmeen Electronics Hub 17,Distributor,purchasing.0322@al.yasmeen.electronics.hub.17.eg,01254490596,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-09-30,10,Inactive
+323,CUS-0323,Al Safwa Business Solutions 17,Distributor,purchasing.0323@al.safwa.business.solutions.17.eg,01554498515,Egypt,Qena,Qena City -  23 July Street,2024-11-21,7.5,Inactive
+324,CUS-0324,El Mostaqbal Digital Market 17,Retail Chain,purchasing.0324@el.mostaqbal.digital.market.17.eg,01054506434,Egypt,Cairo,Nasr City -  Mostafa El Nahas Street,2024-08-25,7.5,Inactive
+325,CUS-0325,El Shorouk Computer Center 17,Retail Chain,purchasing.0325@el.shorouk.computer.center.17.eg,01154514353,Egypt,Ismailia,Sheikh Zayed District -  El Geish Street,2024-12-13,2.5,Inactive
+326,CUS-0326,El Hoda Modern Technology 17,Regional Distributor,purchasing.0326@el.hoda.modern.technology.17.eg,01254522272,Egypt,Qalyubia,Obour City -  First Industrial Zone,2024-09-06,10,Inactive
+327,CUS-0327,Al Rowad Electronics Trading 17,Distributor,,01554530191,Egypt,Minya,Minya City -  Taha Hussein Street,2025-01-29,10,Inactive
+328,CUS-0328,Al Madina Technology Distribution 17,Corporate Customer,purchasing.0328@al.madina.technology.distribution.17.eg,01054538110,Egypt,Fayoum,Fayoum City -  El Bahr Street,2024-08-12,0,Inactive
+329,CUS-0329,Nile Device Retail 17,Retail Chain,purchasing.0329@nile.device.retail.17.eg,01154546029,Egypt,Red Sea,Hurghada -  El Nasr Road,2024-09-12,5,Inactive
+330,CUS-0330,Al Watania Mobile Stores 17,Reseller,purchasing.0330@al.watania.mobile.stores.17.eg,01254553948,Egypt,Giza,6th of October City -  Industrial Zone,2024-09-19,5,Inactive
+331,CUS-0331,Al Basha Smart Devices 17,Reseller,purchasing.0331@al.basha.smart.devices.17.eg,01554561867,Egypt,Dakahlia,Mansoura -  El Gomhoria Street,2024-11-02,7.5,Inactive
+332,CUS-0332,  Canal Electronics Hub 17,Retail Chain,purchasing.0332@canal.electronics.hub.17.eg,01054569786,Egypt,Damietta,New Damietta -  Central District,2025-01-05,2.5,Inactive
+333,CUS-0333,Al Fares Business Solutions 17,Distributor,purchasing.0333@al.fares.business.solutions.17.eg,01154577705,Egypt,KAFR EL SHEIKH,Kafr El Sheikh City -  El Khalifa El Maamoun Street,2024-12-31,10,Inactive
+334,CUS-0334,El Tahrir Digital Market 17,E-commerce Retailer,purchasing.0334@el.tahrir.digital.market.17.eg,01254585624,Egypt,Luxor,Luxor City -  Khaled Ibn El Walid Street,2024-09-14,2.5,Inactive
+335,CUS-0335,Delta Computer Center 17,Regional Distributor,purchasing.0335@delta.computer.center.17.eg,01554593543,Egypt,Cairo,New Cairo -  North 90th Street,2024-10-15,10,Inactive
+336,CUS-0336,El Nasr Modern Technology 17,E-commerce Retailer,purchasing.0336@el.nasr.modern.technology.17.eg,01054601462,Egypt,Alexandria,Smouha -  Fawzy Moaz Street,2025-01-13,5,Inactive
+337,CUS-0337,Al Forsan Electronics Trading 17,Regional Distributor,purchasing.0337@al.forsan.electronics.trading.17.eg,01154609381,Egypt,Suez,Ataqa Industrial Zone,2024-08-24,7.5,Inactive
+338,CUS-0338,Misr Technology Distribution 17,Corporate Customer,purchasing.0338@misr.technology.distribution.17.eg,01254617300,Egypt,Beni Suef,Beni Suef City -  Salah Salem Street,2024-07-09,2.5,Inactive
+339,CUS-0339,Al Amal Device Retail 17,Distributor, PURCHASING.0339@AL.AMAL.DEVICE.RETAIL.17.EG ,01554625219,Egypt,Sohag,Sohag City -  El Gomhoria Street,2024-11-24,10,Inactive
+340,CUS-0340,Al Noor Mobile Stores 17,Regional Distributor,purchasing.0340@al.noor.mobile.stores.17.eg,01054633138,Egypt,North Sinai,Arish -  23 July Street,2025-01-21,10,Inactive
+341,CUS-0341,Al Ahram Smart Devices 18,Distributor,purchasing.0341@al.ahram.smart.devices.18.eg,01154641057,Egypt,Al Sharqia,10th of Ramadan City -  Industrial Zone A3,2024-12-20,10,Inactive
+342,CUS-0342,Al Yasmeen Electronics Hub 18,Regional Distributor,purchasing.0342@al.yasmeen.electronics.hub.18.eg,01254648976,Egypt,Gharbia,Tanta -  El Bahr Street,2024-10-10,10,Inactive
+343,CUS-0343,Al Safwa Business Solutions 18,Retail Chain,purchasing.0343@al.safwa.business.solutions.18.eg,01554656895,Egypt,Assiut,Assiut City -  El Hilaly Street,2024-10-23,5,Inactive
+344,CUS-0344,El Mostaqbal Digital Market 18,Retail Chain,purchasing.0344@el.mostaqbal.digital.market.18.eg,01054664814,Egypt,Monufia,Shebin El Kom -  Gamal Abdel Nasser Street,2024-07-20,10,Inactive
+345,CUS-0345,El Shorouk Computer Center 18,Regional Distributor,purchasing.0345@el.shorouk.computer.center.18.eg,01154672733,Egypt,Aswan,Aswan City -  Corniche El Nile,2024-07-27,5,Inactive
+346,CUS-0346,El Hoda Modern Technology 18,Reseller,purchasing.0346@el.hoda.modern.technology.18.eg,01254680652,Egypt,Giza,Dokki -  Tahrir Street,2024-08-03,2.5,Inactive
+347,CUS-0347,Al Rowad Electronics Trading 18,Corporate Customer,purchasing.0347@al.rowad.electronics.trading.18.eg,01554688571,Egypt,Alexandria,Borg El Arab -  Third Industrial Zone,2024-07-05,2.5,Inactive
+348,CUS-0348,Al Madina Technology Distribution 18,Distributor,purchasing.0348@al.madina.technology.distribution.18.eg,01054696490,Egypt,Port Said,El Arab District -  23 July Street,2024-11-17,7.5,Inactive
+349,CUS-0349,Nile Device Retail 18,Retail Chain,purchasing.0349@nile.device.retail.18.eg,01154704409,Egypt,Beheira,Damanhour -  El Gomhoria Street,2024-10-08,10,Inactive
+350,CUS-0350,Al Watania Mobile Stores 18,Distributor,purchasing.0350@al.watania.mobile.stores.18.eg,01254712328,Egypt,Qena,Qena City -  23 July Street,2025-01-23,7.5,Inactive
